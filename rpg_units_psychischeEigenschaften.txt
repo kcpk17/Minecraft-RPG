@@ -1,0 +1,41 @@
+Königlicher Ritter	freundlich, kräftig, langsam, normal				blau	x
+Imperialer Ritter	freundlich, tank, langsam, normal				blau	x
+Höfischer Bote		freundlich, stürmisch, überlegt, normal, schwach		weiss	x		
+Notfallhelfer		freundlich, stürmisch, leben					grün	x
+Doktor			freundlich, überlegt, leben					blau	x
+Präzisionsschütze	freundlich, überlegt, normal					weiss	x
+Feuerpfeilschütze	freundlich, stürmisch, normal					weiss	x
+Leichter Infanterist	freundlich, stürmisch, normal, schwach				weiss	x
+Mönch			freundlich, tank, spirituell, langsam, licht			gelb	x
+Unterstützer		freundlich, überlegt, normal, schwach				weiss	x
+Kürassier		freundlich, tank, langsam, normal				blau	x
+Leichte Kavallerie	freundlich, stürmisch, normal, schwach				weiss	x
+
+Hochlandkrieger		neutral, söldner, überlegt, normal				grau	x
+Kriegsveteran		neutral, tank, überlegt, langsam, normal			blau	x
+Phantom			neutral, hinterhältig, leben					grün	x
+Nautist			neutral, naturverbunden, wasser					grün	x
+Eremit			neutral, kräftig, naturverbunden, leben				grün	x
+Waldläufer		neutral, überlegt, naturverbunden, ausgewogen, leben		grün	x
+Todesbote		neutral, tot, tod						grau	x
+Gewöhnlicher Reiter	neutral, ausgewogen, normal					grau	x
+Mangudai		neutral, stürmisch, spirituell, licht				gelb	x
+Seelensammler		neutral, tot, stürmisch, tod					grau	x
+
+Alchemist		fies, überlegt, , normal (fies)					schwarz	x
+Höllenzauberer		fies, hinterhältig, überlegt, feuer				schwarz	x
+Giftmischer		fies, überlegt, hinterhältig, normal (fies), schwach		schwarz	x
+Assassine		fies, hinterhältig, normal (fies)				schwarz	x
+Attentäter		fies, hinterhältig, überlegt, normal (fies)			schwarz	x
+Barbar			fies, langsam, kräftig, normal (fies)				rot	x
+Irrer			fies, hinterhältig, überlegt, tod, langsam			grau	x
+Dschigit		fies, stürmisch, hinterhältig, normal (fies)			rot	x
+Religiöser Terrorist	fies, spirituell, hinterhältig, überlegt, normal (fies)		gelb
+
+blau		wasser, freundlich, überlegt, langsam, tank				5
+rot		feuer, fies, stürmisch, kräftig, kräftig, naturverbunden, söldner	2
+gelb		licht, neutral, spirituell, ausgewogen					3
+weiss		normal, freundlich, schwach, kein tank					6
+schwarz		normal (fies), fies, hinterhältig					5
+grau		tod, neutral, tot, langsam, ausgewogen					5
+grün		leben, neutral, naturverbunden, ausgewogen, freundlich, überlegt	5

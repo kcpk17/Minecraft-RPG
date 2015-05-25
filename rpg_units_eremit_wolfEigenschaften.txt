@@ -1,0 +1,7 @@
+Wolfie		Speed 2
+Wolfy		Health Boost 10
+Wölfine		Fire Res. 1, Slowness 1, Regen 1
+Wölfchen	Regen 5, Weakness 1
+Wölfinchen	Invisibility
+Lupis		Res. 2, Jump Boost 2
+Wolk		Strength 3, Slowness 2
