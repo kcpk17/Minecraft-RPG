@@ -1,0 +1,51 @@
+Version History (31.05.15)
+
+Bisher vollbrachte Taten:
+
+-erste Klasse hinzugefügt (Imperialer Ritter)
+-erste Arena hizugefügt (Wald)
+
+-weitere Klassen hinzugefügt (Präziosionsschütze, Feuerpefeilschütze, Leichter Infanterist, Barbar, Mönch, Assassine, Attentäter, Hochlandkrieger, Kriegsveteran, Königlicher Ritter
+
+-Klassenrandomizer erstellt
+-weitere Arenen hinzugefügt (Dschungelberg, Sumpf, Wüste)
+
+-Gebietsrandomizer erstellt
+-Scoreboard-Objectives können per Cmdblock zurückgesetzt werden
+-experimentelle Version des Höllenzauberers
+-weitere Klassen hinzugefügt (Nautist, Unterstützer, Giftmischer, Notfallhelfer, Doktor)
+-eine weitere Klasse hinzugefügt von R. v. E. (Alchemist)
+
+-weitere Klassen hinzugefügt (Waldläufer, Höfischer Bote)
+-Höllenzauberermechanik verbessert
+-experimentelle Version des Eremiten
+
+-weitere Arenen hinzugefügt (Dorf, Bergausläufer, Berglandschaft)
+
+-Höllenzauberer fertiggestellt
+-Phantom (Klasse) hinzugefügt
+-Randomizer für Startposition in der Arena hinzugefügt
+
+-Klassenbalancing
+-Objectives dmgdealt, dmgtaken, class, bati, playernumber, kills, tod hinzugefügt
+-implemtierung des Hällenzauberers in alle Arenen
+
+-Absturz der ganzen Welt
+
+-Rettung der Welt mithilfe MCEdit
+
+-Überarbeitung des Höllenzauberers
+-Neuer Randomizer für Spielerstartplazierung in der Arena (nutzen des playernumber objective)
+
+-weitere Klassen hinzugefügt (Medusa, Todesbote)
+-eine weitere Klasse hinzugefügt von J. S. (Irrer)
+-Bau der Lobby
+
+-weitere Klassen hizugefügt (Religiöser Terrorist, Leichte Kavallerie, Seelensammler, Mangudai, Dschigit, Gewöhnlicher Reiter, Kürassier)
+-entfernen der Medusa (Klasse), da nicht ausgereift und Lags verursacht wurden
+-Bau der Lobby beendet
+
+-Arena "Wald" kann nun via Schildklick in der Lobby betreten werden
+
+-nachträgliche Versionsgeschichte wird geschrieben
+-Aufzeichnung der verwendeten Commands
