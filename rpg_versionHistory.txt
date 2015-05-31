@@ -50,3 +50,5 @@ Bisher vollbrachte Taten:
 
 -nachträgliche Versionsgeschichte wird geschrieben
 -Aufzeichnung der verwendeten Commands
+-alle Schilder in der Lobby können nun angeklickt werden
+-dmggealt objective wird jetzt unter dem Namensschild angezeigt
