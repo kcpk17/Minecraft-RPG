@@ -1,27 +1,29 @@
+/testfor @a[r=100,score_class=8,score_class_min=8]
+
 /execute @a[r=50,score_class=8,score_class_min=8] ~ ~ ~ 
-/summon EntityHorse ~ ~2 ~ 
-{
-	Type:0,
-	Tame:1,
-	Variant:3,
-	Saddle:1,
-	CustomNameVisible:0,
-	CustomName:Nevon,
-	Attributes:
-	[
-		{
-			Name:generic.movementSpeed,
-			Base:0.1125
-		},
-		{
-			Name:generic.maxHealth,Base:80.00
-		},
-		{
-			Name:horse.jumpStrength,Base:0.35
-		}
-	],
-	ArmorItem:
+	/summon EntityHorse ~ ~2 ~ 
 	{
-		id:419
+		Type:0,
+		Tame:1,
+		Variant:3,
+		Saddle:1,
+		CustomNameVisible:0,
+		CustomName:Nevon,
+		Attributes:
+		[
+			{
+				Name:generic.movementSpeed,
+				Base:0.1125
+			},
+			{
+				Name:generic.maxHealth,Base:80.00
+			},
+			{
+				Name:horse.jumpStrength,Base:0.35
+			}
+		],
+		ArmorItem:
+		{
+			id:419
+		}
 	}
-}

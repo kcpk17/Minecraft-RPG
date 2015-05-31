@@ -1,0 +1,31 @@
+/testfor @a[r=100,score_class=11,score_class_min=11]
+
+/execute @a[r=100,score_class=11,score_class_min=11] ~ ~ ~ 
+	/summon EntityHorse ~ ~ ~ 
+	{
+		ArmorItem:
+		{
+			id:418
+		},
+		Tame:1,
+		Saddle:1,
+		Type:0,
+		Variant:2,
+		CustomNameVisible:0,
+		CustomName:Solmyr,
+		Attributes:
+		[
+			{
+				Name:generic.movementSpeed,
+				Base:0.3375
+			},
+			{
+				Name:generic.maxHealth,
+				Base:24.00
+			},
+			{
+				Name:horse.jumpStrength,
+				Base:1.0
+			}
+		]
+	}

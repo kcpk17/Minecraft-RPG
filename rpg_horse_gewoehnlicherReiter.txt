@@ -1,0 +1,31 @@
+/testfor @a[r=100,score_class=10,score_class_min=10]
+
+/execute @a[r=100,score_class=10,score_class_min=10] ~ ~ ~ 
+	/summon EntityHorse ~ ~ ~ 
+	{
+		Type:0,
+		Tame:1,
+		Saddle:1,
+		ArmorItem:
+		{
+			id:417
+		},
+		Variant:0,
+		CustomNameVisible:0,
+		CustomName:Mayweda,
+		Attributes:
+		[
+			{
+				Name:generic.movementSpeed,
+				Base:0.2255
+			},
+			{
+				Name:generic.maxHealth,
+				Base:42.00
+			},
+			{
+				Name:horse.jumpStrength,
+				Base:0.7
+			}
+		]
+	} 

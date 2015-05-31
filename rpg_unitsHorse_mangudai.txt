@@ -1,0 +1,12 @@
+/scoreboard players set @p class 7
+/effect @p minecraft:saturation 1000000 0 true
+/give @p minecraft:leather_helmet 1 0 {display:{Name:Exotische Rüstung,Lore:["Ein exotisch aussehnder Helm.","Niemand, ausser dem Träger","selbst, weiss aus welchen","Materialien er gemacht wurde."],color:11751612}}
+/give @p minecraft:leather_chestplate 1 0 {display:{Name:Exotische Rüstung,Lore:["Eine Rüstung aus fremden","Gebieten. Die Überraschung ist","geht mit ihr Hand in Hand."],color:11751612}}
+/give @p minecraft:leather_leggings 1 0 {display:{Name:Exotischer Beinpanzer,Lore:["Fremde Sachen flösen oft","Angst aus..."],color:11751612}}
+/give @p minecraft:leather_boots 1 0 {display:{Name:Exotische Stiefel,Lore:["Die Rüstung wird mit","verwirrend exotischen Stiefel","perfekt vervollständigt."],color:11751612}}
+/give @p minecraft:bow 1 0 {ench:[{id:34,lvl:10},{id:51,lvl:1},{id:49,lvl:7}],display:{Name:Exotischer Bogen,Lore:["Ein unbekannter Bogen,","der eine noch nie gesehene","Kraft besitzt."]}}
+/give @p minecraft:arrow 1
+/give @p minecraft:lead 1 0 {display:{Name:Leine,Lore:["Für Störrisches..."]}}
+/tellraw @a {text:"Mangudai",bold:true,color:yellow}
+/gamemode 2 @p
+/tp @p 60 81 539

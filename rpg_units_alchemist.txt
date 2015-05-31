@@ -1,0 +1,15 @@
+/give @p minecraft:leather_chestplate 1 0 {ench:[{id:7,lvl:3},{id:34,lvl:10}],display:{Name:Magierrobe der Ewigen Flamme,color:9843760}}
+/give @p minecraft:leather_helmet 1 0 {ench:[{id:7,lvl:1},{id:34,lvl:10}],display:{Name:Hut des verlorenen Wissens,color:9843760}}
+/give @p minecraft:blaze_rod 1 0 {ench:[{id:20,lvl:1},{id:19,lvl:5},{id:16,lvl:3}],display:{Name:Zauberstab der vergangenen Zeitalter}}
+/give @p minecraft:potion 5 16394 
+/give @p minecraft:potion 18 16396 {CustomPotionEffects:[1:{Id:7,Amplifier:1}]}
+/give @p minecraft:potion 5 16389 {CustomPotionEffects:[1:{Id:15,Amplifier:0,Duration:100}]}
+/give @p minecraft:potion 5 2 {CustomPotionEffects:[1:{Id:22,Amplifier:1,Duration:200}]}
+/effect @p minecraft:saturation 1000000 9 true
+/effect @p minecraft:absorption 1000000 2 true
+/effect @p minecraft:health_boost 1000000 1 true
+/effect @p minecraft:regeneration 5 9 true
+/effect @p minecraft:fire_resistance 1000000 0 true
+/tellraw @a {text:"Alchemist",bold:true,color:black}
+/gamemode 2 @p
+/tp @p 60 81 539

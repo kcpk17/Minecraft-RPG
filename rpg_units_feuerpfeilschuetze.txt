@@ -1,0 +1,11 @@
+/give @p minecraft:chainmail_chestplate 1 0 {ench:[{id:4,lvl:1},{id:34,lvl:5}],display:{Name:Enges Kettenhemd}}
+/give @p minecraft:leather_leggings 1 0 {ench:[{id:34,lvl:5}],display:{Name:Enge Schützenhosen}}
+/give @p minecraft:leather_boots 1 0 {ench:[{id:34,lvl:5}],display:{Name:Enge Stiefel}}
+/give @p minecraft:leather_helmet 1 0 {ench:[{id:34,lvl:5}],display:{Name:Engsitzender Helm}}
+/effect @p minecraft:saturation 1000000 2 true
+/effect @p minecraft:haste 1000000 1 true
+/give @p minecraft:bow 1 0 {ench:[{id:50,lvl:3},{id:51,lvl:1},{id:34,lvl:10},{id:49,lvl:2}],display:{Name:Schneller Bogen}}
+/give @p minecraft:arrow 1 0
+/tellraw @a {text:"Feuerpfeilschütze",bold:true,color:white}
+/gamemode 2 @p
+/tp @p 60 81 539

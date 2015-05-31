@@ -1,0 +1,22 @@
+/testfor @a[r=100,score_class=3,score_class_min=3]
+
+/execute @a[r=100,score_class=3,score_class_min=3] ~ ~ ~ /summon Wolf ~ ~ ~ {Owner:@p,CustomNameVisible:0,CustomName:Wolfy,ActiveEffects:[{Id:21,Amplifier:10,Duration:1000000,ShowParticles:0b}]}
+/give @a[r=100,score_class=3,score_class_min=3] minecraft:bone 8
+
+/execute @a[r=100,score_class=3,score_class_min=3] ~ ~ ~ /summon Wolf ~ ~ ~ {Owner:@p,CustomNameVisible:0,CustomName:Wolfie,ActiveEffects:[{Id:1,Amplifier:2,Duration:1000000,ShowParticles:0b}]}
+/give @a[r=100,score_class=3,score_class_min=3] minecraft:bone 8
+
+/execute @a[r=100,score_class=3,score_class_min=3] ~ ~ ~ /summon Wolf ~ ~ ~ {Owner:@p,CustomNameVisible:0,CustomName:Wölfine,ActiveEffects:[{Id:12,Amplifier:1,Duration:1000000,ShowParticles:0b},{Id:2,Amplifier:1,Duration:1000000,ShowParticles:0b},{Id:10,Amplifier:1,Duration:1000000,ShowParticles:0b}]}
+/give @a[r=100,score_class=3,score_class_min=3] minecraft:bone 8
+
+/execute @a[r=100,score_class=3,score_class_min=3] ~ ~ ~ /summon Wolf ~ ~ ~ {Owner:@p,CustomNameVisible:0,CustomName:Wolk,ActiveEffects:[{Id:3,Amplifier:3,Duration:1000000,ShowParticles:0b},{Id:2,Amplifier:2,Duration:1000000,ShowParticles:0b}]}
+/give @a[r=100,score_class=3,score_class_min=3] minecraft:bone 8
+
+/execute @a[r=100,score_class=3,score_class_min=3] ~ ~ ~ /summon Wolf ~ ~ ~ {Owner:@p,CustomNameVisible:0,CustomName:Wölfinchen,ActiveEffects:[{Id:10,Amplifier:5,Duration:1000000,ShowParticles:0b},{Id:18,Amplifier:1,Duration:1000000,ShowParticles:0b}]}
+/give @a[r=100,score_class=3,score_class_min=3] minecraft:bone 8
+
+/execute @a[r=100,score_class=3,score_class_min=3] ~ ~ ~ /summon Wolf ~ ~ ~ {Owner:@p,CustomNameVisible:0,CustomName:Wölfinchen,ActiveEffects:[{Id:14,Amplifier:1,Duration:1000000,ShowParticles:1b}]}
+/give @a[r=100,score_class=3,score_class_min=3] minecraft:bone 8
+
+/execute @a[r=100,score_class=3,score_class_min=3] ~ ~ ~ /summon Wolf ~ ~ ~ {Owner:@p,CustomNameVisible:0,CustomName:Lupis,ActiveEffects:[{Id:11,Amplifier:2,Duration:1000000,ShowParticles:0b},{Id:8,Amplifier:2,Duration:1000000,ShowParticles:0b}]}
+/give @a[r=100,score_class=3,score_class_min=3] minecraft:bone 8

@@ -1,0 +1,10 @@
+/give @p minecraft:bow 1 0 {ench:[{id:50,lvl:3},{id:51,lvl:1},{id:34,lvl:10}],display:{Name:Noch offen}}
+/give @p minecraft:arrow 1
+/effect @p minecraft:slowness 1000000 255
+/effect @p minecraft:invisibility 1000000 1
+/effect @p minecraft:jump_boost 1000000 10
+/effect @p minecraft:saturation 1000000 1
+/give @p minecraft:iron_boots 1 0 {ench:[{id:34,lvl:5},{id:2,lvl:10}]}
+/tp @p 52 68 541/tellraw @a {text:"Irrer",bold:true,color:gray}
+/gamemode 2 @p
+/tp @p 60 81 539

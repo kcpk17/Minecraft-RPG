@@ -1,0 +1,27 @@
+/testfor @a[r=100,score_class=7,score_class_min=7]
+
+/execute @a[r=100,score_class=7,score_class_min=7] ~ ~ ~ 
+	/summon EntityHorse ~ ~ ~ 
+	{
+		Saddle:1,
+		Tame:1,
+		CustomNameVisible:0,
+		Type:0,
+		Variant:1030,
+		CustomName:Aeris,
+		Attributes:
+		[
+			{
+				Name:generic.movementSpeed,
+				Base:0.2765
+			},
+			{
+				Name:generic.maxHealth,
+				Base:36.00
+			},
+			{
+				Name:horse.jumpStrength,
+				Base:0.82
+			}
+		]
+	}

@@ -1,0 +1,15 @@
+/give @p minecraft:leather_chestplate 1 0 {ench:[{id:34,lvl:10}],display:{Name:Mönchsrobe,color:1644054}}
+/give @p minecraft:leather_leggings 1 0 {ench:[{id:34,lvl:10}],display:{Name:Mönchsrobenrock,color:1644054}}
+/give @p minecraft:leather_boots 1 0 {ench:[{id:34,lvl:10}],display:{Name:Mönchsfinken,color:1644054}}
+/give @p minecraft:leather_helmet 1 0 {ench:[{id:34,lvl:10}],display:{Name:Mönchskapuze,color:1644054}}
+/give @p minecraft:stick 1 0 {ench:[{id:16,lvl:3},{id:20,lvl:1},{id:34,lvl:50}],display:{Name:Daibo}}
+/effect @p minecraft:saturation 1000000 1 true
+/effect @p minecraft:fire_resistance 1000000 0 true
+/effect @p minecraft:regeneration 1000000 1 true
+/effect @p minecraft:absorption 1000000 4 true
+/effect @p minecraft:blindness 1000000 0 true
+/effect @p minecraft:health_boost 1000000 4 true
+/effect @p minecraft:resistance 1000000 2 true
+/tellraw @p {text:"Mönch",bold:true,color:yellow}
+/gamemode 2 @p
+/tp @p 60 81 539

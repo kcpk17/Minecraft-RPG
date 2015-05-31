@@ -1,0 +1,5 @@
+/scoreboard players set @p class 9
+/give @p minecraft:wooden_sword 1 0 {Unbreakable:1,ench:[{id:21,lvl:10}]}
+/tellraw @a {text:"Religiöser Terrorist",bold:true,color:yellow}
+/gamemode 2 @p
+/tp @p 60 81 539

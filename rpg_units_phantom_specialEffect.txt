@@ -1,0 +1,36 @@
+Clock
+
+		/testfor @a[score_bati=5,score_bati_min=1]
+same time:	/testfor @a[score_class=1,score_class_min=1]
+
+AND-Gate
+
+		/execute @a[score_bati=5,score_bati_min=1] ~ ~ ~ /summon Slime ~ ~-1 ~ {Size:-1}
+
+		/execute @a[score_bati=5,score_bati_min=1] ~ ~ ~ /effect @a[score_bati=5,score_bati_min=1] minecraft:speed 5 1 true
+same time:	/execute @a[score_bati=5,score_bati_min=1] ~ ~ ~ /playsound mob.blaze.breathe @p ~ ~ ~ 50 1 1
+
+		/execute @a[score_bati=5,score_bati_min=1] ~ ~ ~ /playsound random.fizz @a[score_bati=5,score_bati_min=1] ~ ~ ~  10
+same time:	/execute @a[score_bati=5,score_bati_min=1] ~ ~ ~ /playsound mob.blaze.breathe @p ~ ~ ~ 50 1 1
+
+		/execute @a[score_bati=5,score_bati_min=1] ~ ~ ~ /summon Bat ~ ~2 ~
+same time:	/execute @a[score_bati=5,score_bati_min=1] ~ ~ ~ /summon Bat ~ ~2 ~
+same time:	/execute @a[score_bati=5,score_bati_min=1] ~ ~ ~ /summon Bat ~ ~2 ~
+same time:	/execute @a[score_bati=5,score_bati_min=1] ~ ~ ~ /summon Bat ~ ~2 ~
+same time:	/execute @a[score_bati=5,score_bati_min=1] ~ ~ ~ /summon Bat ~ ~2 ~
+same time:	/execute @a[score_bati=5,score_bati_min=1] ~ ~ ~ /summon Bat ~ ~2 ~
+same time:	/execute @a[score_bati=5,score_bati_min=1] ~ ~ ~ /summon Bat ~ ~2 ~
+same time:	/execute @a[score_bati=5,score_bati_min=1] ~ ~ ~ /summon Bat ~ ~2 ~
+same time:	/execute @a[score_bati=5,score_bati_min=1] ~ ~ ~ /summon Bat ~ ~2 ~
+same time:	/execute @a[score_bati=5,score_bati_min=1] ~ ~ ~ /summon Bat ~ ~2 ~
+same time:	/execute @a[score_bati=5,score_bati_min=1] ~ ~ ~ /summon Bat ~ ~2 ~
+same time:	/execute @a[score_bati=5,score_bati_min=1] ~ ~ ~ /summon Bat ~ ~2 ~
+
+		/execute @a[score_bati=5,score_bati_min=1] ~ ~ ~ /effect @a[score_bati=5,score_bati_min=1] minecraft:invisibility 5 0 true
+same time:	/execute @a[score_bati=5,score_bati_min=1] ~ ~ ~ /playsound mob.blaze.breathe @p ~ ~ ~ 50 1 1
+
+		/scoreboard players set @a[score_bati_min=1] bati 1000
+
+		/kill @e[type=Bat]
+
+		/scoreboard players set @a[score_bati_min=200] bati 0

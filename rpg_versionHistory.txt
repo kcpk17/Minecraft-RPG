@@ -5,7 +5,7 @@ Bisher vollbrachte Taten:
 -erste Klasse hinzugefügt (Imperialer Ritter)
 -erste Arena hizugefügt (Wald)
 
--weitere Klassen hinzugefügt (Präziosionsschütze, Feuerpefeilschütze, Leichter Infanterist, Barbar, Mönch, Assassine, Attentäter, Hochlandkrieger, Kriegsveteran, Königlicher Ritter
+-weitere Klassen hinzugefügt (Präziosionsschütze, Feuerpefeilschütze, Leichter Infanterist, Barbar, Mönch, Assasine, Attentäter, Hochlandkrieger, Kriegsveteran, Königlicher Ritter
 
 -Klassenrandomizer erstellt
 -weitere Arenen hinzugefügt (Dschungelberg, Sumpf, Wüste)

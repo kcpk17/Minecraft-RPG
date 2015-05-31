@@ -1,0 +1,26 @@
+/testfor @a[r=100,score_class=5,score_class_min=5]
+
+/execute @a[r=100,score_class=5,score_class_min=5] ~ ~ ~ 
+	/summon EntityHorse ~ ~ ~ 
+	{
+		Type:4,
+		Tame:1,
+		Saddle:1,
+		CustomNameVisible:0,
+		CustomName:Archilus,
+		Attributes:
+		[
+			{
+				Name:generic.movementSpeed,
+				Base:0.175
+			},
+			{
+				Name:generic.maxHealth,
+				Base:36.00
+			},
+			{
+				Name:horse.jumpStrength,
+				Base:0.3
+			}
+		]
+	}

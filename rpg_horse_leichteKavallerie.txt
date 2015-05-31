@@ -1,0 +1,28 @@
+/testfor @a[r=100,score_class=6,score_class_min=6]
+
+/execute @a[r=100,score_class=6,score_class_min=6] ~ ~ ~ 
+	/summon EntityHorse ~ ~ ~ 
+	{
+		Type:0,
+		Tame:1,
+		Variant:4,
+		Tame:1,
+		Saddle:1,
+		CustomName:Yog,
+		CustomNameVisible:0,
+		Attributes:
+		[
+			{
+				Name:generic.movementSpeed,
+				Base:0.2955
+			},
+			{
+				Name:generic.maxHealth,
+				Base:20.00
+			},
+			{
+				Name:horse.jumpStrength,
+				Base:0.55
+			}
+		]
+	}

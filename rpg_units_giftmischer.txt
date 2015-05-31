@@ -1,0 +1,11 @@
+/give @p minecraft:leather_boots 1 0 {ench:[{id:34,lvl:10},{id:2,lvl:5}],display:{Name:Giftige Schuhe},color:10092339}
+/give @p minecraft:wooden_sword 1 0 {ench:[{id:34,lvl:10}],display:{Name:Gewöhnlicher Dolch}}
+/give @p minecraft:potion 9 16396 {CustomPotionEffects:[1:{Id:20,Amplifier:1,Duration:200}],display:{Name:"Schleichender Tod",Lore:["Ein kraftvolles Gemisch, dass","langsam die Lebnesenergie","des Ziels entzieht"]}}
+/give @p minecraft:potion 9 16388 {CustomPotionEffects:[1:{Id:19,Amplifier:1,Duration:300}],display:{Name:"Erdrückende Schwächung",Lore:["Vergiftet das Ziel","mit grosser Effektivität"]}}
+/give @p minecraft:potion 7 16395 {CustomPotionEffects:[1:{Id:9,Amplifier:1,Duration:400}],display:{Name:"Essenz des Übels",Lore:["Schiesst dem Ziel übel-","riechender Schleim ins Gesicht"]}}
+/give @p minecraft:potion 9 16430 {CustomPotionEffects:[1:{Id:15,Amplifier:1,Duration:100}],display:{Name:"Blendendes Gift",Lore:["Heller Lichblitz, der die","Netzhaut des Ziels für","wenige Sekunden ausser Kraft","setzt"]}}
+/effect @p minecraft:jump_boost 1000000 2 true
+/effect @p minecraft:saturation 1000000 1 true
+/tellraw @a {text:"Giftmischer",bold:true,color:black}
+/gamemode 2 @p
+/tp @p 60 81 539

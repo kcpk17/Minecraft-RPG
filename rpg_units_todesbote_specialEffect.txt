@@ -1,0 +1,9 @@
+Clock
+
+		/testfor @a[score_dmgdealttest_min=1,score_class_min=4,score_class=4]
+
+		/execute @a[score_class=4,score_class_min=4] ~ ~ ~ effect @a[r=6] minecraft:poison 4 1
+
+		/effect @a[score_class=4,score_class_min=4] minecraft:poison 0
+
+		/scoreboard players set @a[score_dmgdealttest_min=1] dmgdealttest 0

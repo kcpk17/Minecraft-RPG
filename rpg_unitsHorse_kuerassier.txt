@@ -1,0 +1,13 @@
+/scoreboard players set @p class 8
+/give @p minecraft:leather_helmet 1 0 {ench:[{id:34,lvl:9},{id:0,lvl:1}],display:{Name:Spiritueller Helm,Lore:["Ein Helm, der den psychischen","Effekt wie ein Diamanthelm","hat."],color:7047881}}
+/give @p minecraft:leather_leggings 1 0 {ench:[{id:34,lvl:10},{id:0,lvl:1}],display:{Name:Spirituelle Hosen,Lore:["Diamanthosen sind ein","Dreck dagegen..."],color:7047881}}
+/give @p minecraft:leather_chestplate 1 0 {ench:[{id:34,lvl:10},{id:0,lvl:2}],display:{Name:Spiritueller Panzer,Lore:["Undurchdringliche Rüstung","ist das Markenzeichen","des Kürassiers"],color:7047881}}
+/give @p minecraft:leather_boots 1 0 {ench:[{id:34,lvl:7},{id:0,lvl:5}],display:{Name:Spirituelle Stiefelchen,Lore:["Leichte Armeestiefelchen","lassen den Träger weniger","schwitzen."],color:7047881}}
+/give @p minecraft:stone_sword 1 0  {ench:[{id:34,lvl:8}],display:{Name:Spirituelles Schwert,Lore:["Ein Schwert, dass","nur aus den besten","Materialien gemacht wurde."]}}
+/effect @p minecraft:saturation 1000000 0 true
+/effect @p minecraft:weakness 1000000 0 true
+/effect @p minecraft:resistance 1000000 0 true
+/give @p minecraft:lead 1 0 {display:{Name:Leine,Lore:["Für Störrisches..."]}}
+/tellraw @a {text:"Kürassier",bold:true,color:blue}
+/gamemode 2 @p
+/tp @p 60 81 539
