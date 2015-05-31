@@ -46,6 +46,7 @@ Bisher vollbrachte Taten:
 -Bau der Lobby beendet
 
 -Arena "Wald" kann nun via Schildklick in der Lobby betreten werden
+-Eremit (Klasse) fertiggestellt
 
 -nachträgliche Versionsgeschichte wird geschrieben
 -Aufzeichnung der verwendeten Commands
