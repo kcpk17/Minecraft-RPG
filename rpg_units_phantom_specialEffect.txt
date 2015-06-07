@@ -1,7 +1,6 @@
 Clock
 
-		/testfor @a[score_bati=5,score_bati_min=1]
-same time:	/testfor @a[score_class=1,score_class_min=1]
+		/testfor @a[score_class=1,score_class_min=1,score_bati=5,score_bati_min=1]
 
 AND-Gate
 
