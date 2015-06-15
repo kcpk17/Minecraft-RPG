@@ -52,3 +52,7 @@ Bisher vollbrachte Taten:
 -Aufzeichnung der verwendeten Commands
 -alle Schilder in der Lobby können nun angeklickt werden
 -dmggealt objective wird jetzt unter dem Namensschild angezeigt
+
+15.06.15
+-stealth-Klassen haben jetzt Hunger und Nahrung im Inventar (Attentäter: Bread, Assasine: Cooked Fish, Irrer: Cooked Rabbit)
+-Infotexte bei der Klassenwahl ausgebaut

@@ -3,7 +3,8 @@
 /effect @p minecraft:slowness 1000000 255
 /effect @p minecraft:invisibility 1000000 1
 /effect @p minecraft:jump_boost 1000000 10
-/effect @p minecraft:saturation 1000000 1
+/effect @p minecraft:hunger 1000000 1
+/give @p minecraft:cooked_rabbit 64
 /give @p minecraft:iron_boots 1 0 {ench:[{id:34,lvl:5},{id:2,lvl:10}]}
 /tp @p 52 68 541/tellraw @a {text:"Irrer",bold:true,color:gray}
 /gamemode 2 @p
