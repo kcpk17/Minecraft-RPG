@@ -7,7 +7,7 @@
 /effect @p minecraft:nausea 1000000 0 true
 /effect @p minecraft:strength 1000000 0 true
 /effect @p minecraft:hunger 1000000 1 true
-/give @p minecraft:cooked_fish 64
+/give @p minecraft:cooked_fish 32
 /gamemode 2 @p
 /tellraw @a {text:"Assassine",bold:true,color:black}
 /tp @p 60 81 539

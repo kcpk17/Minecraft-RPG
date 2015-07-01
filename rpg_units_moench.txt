@@ -9,7 +9,10 @@
 /effect @p minecraft:absorption 1000000 4 true
 /effect @p minecraft:blindness 1000000 0 true
 /effect @p minecraft:health_boost 1000000 4 true
-/effect @p minecraft:resistance 1000000 2 true
+/effect @p minecraft:resistance 1000000 3 true
 /tellraw @p {text:"Mönch",bold:true,color:yellow}
 /gamemode 2 @p
 /tp @p 60 81 539
+/title @p title {text:"Mönch",color:yellow,bold:true}
+/title @p subtitle {text:"Dmg: 48, Fire Dmg: 40",color:white}
+/execute @p ~ ~ ~ /playsound mob.blaze.breathe @p ~ ~ ~ 50 1 1

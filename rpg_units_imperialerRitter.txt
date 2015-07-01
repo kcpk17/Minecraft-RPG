@@ -11,3 +11,6 @@
 /tellraw @a {text:"Imperialer Ritter",bold:true,color:blue}
 /gamemode 2 @p
 /tp @p 60 81 539
+/title @p title {text:"Imperialer Ritter",color:blue,bold:true}
+/title @p subtitle {text:"Dmg: 45",color:white}
+/execute @p ~ ~ ~ /playsound mob.blaze.breathe @p ~ ~ ~ 50 1 1

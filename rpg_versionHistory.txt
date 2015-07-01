@@ -28,7 +28,7 @@ Bisher vollbrachte Taten:
 
 -Klassenbalancing
 -Objectives dmgdealt, dmgtaken, class, bati, playernumber, kills, tod hinzugefügt
--implemtierung des Hällenzauberers in alle Arenen
+-implemtierung des Höllenzauberers in alle Arenen
 
 -Absturz der ganzen Welt
 
@@ -56,3 +56,14 @@ Bisher vollbrachte Taten:
 15.06.15
 -stealth-Klassen haben jetzt Hunger und Nahrung im Inventar (Attentäter: Bread, Assasine: Cooked Fish, Irrer: Cooked Rabbit)
 -Infotexte bei der Klassenwahl ausgebaut
+
+01.07.15
+-Nahrung der Stealth-Klassen wurde reduziert
+-Kriegsveteran besitzt keine Protection mehr
+-Klassen-/HorseKlassen-/Gebietsrandomizer wurden überarbeitet, verbessert und verkleinert
+-"Zufall: Klasse"-Schild ist jetzt neben dem Spawnpoint (vormals Lobby)
+-Alle interaktive Schilder haben jetzt blauen Text
+-Klassen können jetzt per Schildklick ausgewählt werden
+-Mönch hat jetzt Resistance 4
+-Bei Auswahl folgenden Klassen Mönch, Barbar, Imperialer Ritter, Königlicher Ritter wird eine kurze Info über die Klasse dem Spieler als Titel gezeigt
+-Bei Auswahl folgenden Klassen Mönch, Barbar, Imperialer Ritter, Königlicher Ritter wird der Sound blaze.breathe dem Spieler gespielt

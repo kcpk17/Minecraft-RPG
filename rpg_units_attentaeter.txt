@@ -7,7 +7,7 @@
 /effect @p minecraft:nausea 1000000 0 true
 /effect @p minecraft:night_vision 1000000 0 true
 /effect @p minecraft:hunger 1000000 1 true
-/give @p minecraft:bread 64
+/give @p minecraft:bread 32
 /gamemode 2 @p
 /tellraw @a {text:"Attentäter",bold:true,color:black}
 /tp @p 60 81 539

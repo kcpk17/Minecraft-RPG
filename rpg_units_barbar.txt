@@ -7,3 +7,6 @@
 /tellraw @a {text:"Barbar",bold:true,color:red}
 /gamemode 2 @p
 /tp @p 60 81 539
+/title @p title {text:"Barbar",color:red,bold:true}
+/title @p subtitle {text:"Dmg: 382, Dmg taken: 143",color:white}
+/execute @p ~ ~ ~ /playsound mob.blaze.breathe @p ~ ~ ~ 50 1 1
