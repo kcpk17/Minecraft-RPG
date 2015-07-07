@@ -1,0 +1,3 @@
+/scoreboard objectives setdisplay sidebar dmgdealt
+/scoreboard objectives setdisplay belowName kills
+/scoreboard objectives setdisplay list tod

@@ -1,0 +1,14 @@
+/gamerule commandBlockOutput false
+/gamerule doEntityDrops false
+/gamerule doFireTick false
+/gamerule doMobLoot false
+/gamerule doMobSpawning true
+/gamerule doTileDrops false
+/gamerule keepInventory true
+/gamerule logAdminCommands true
+/gamerule mobGriefung false
+/gamerule naturalRegeneration true
+/gamerule randomTickSpeed 3
+/gamerule reducedDebugInfo true
+/gamerule senCommandFeedback true
+/gamerule showDeathMessages true

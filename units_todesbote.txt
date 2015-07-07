@@ -1,0 +1,15 @@
+/scoreboard players set @p class 4
+/give @p minecraft:bone 1 0 {ench:[{id:16,lvl:8}],display:{Name:Wurmzerfressener Knochen}}
+/give @p minecraft:chainmail_chestplate 1 0 {ench:[{id:34,lvl:10},{id:3,lvl:1}],display:{Name:Seelenloses Kettenhemd}}
+/give @p minecraft:chainmail_leggings 1 0 {ench:[{id:34,lvl:10},{id:3,lvl:2}],display:{Name:Seelenlose Hosen}}
+/give @p minecraft:skull 1 3 {SkullOwner:MHF_Skeleton,ench:[{id:3,lvl:3}],display:{Name:Kopf eines Seelenlosen}}
+/effect @p minecraft:invisibility 1000000 0 false
+/effect @p minecraft:saturation 1000000 0 false
+/effect @p minecraft:slowness 1000000 0 false
+/scoreboard players set @p dmgdealttest 0
+/tellraw @a {text:"Todesbote",bold:true,color:gray}
+/gamemode 2 @p
+/tp @p 60 81 539
+/execute @p ~ ~ ~ /playsound mob.blaze.breathe @p ~ ~ ~ 50 1 1
+/title @p title {text:"Todesbote",bold:true,color:gray}
+/title @p subtitle {text:"",color:white}

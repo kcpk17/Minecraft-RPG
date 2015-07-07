@@ -1,0 +1,6 @@
+/execute @p ~ ~ ~ /playsound mob.blaze.breathe @p ~ ~ ~ 50 1 1
+/title @p title {text:"Medusa",bold:true,color:red}
+/title @p subtitle {text:"",color:white}
+/tellraw @a {text:"Medusa",bold:true,color:red}
+/tp @p 60 81 539
+/gamemode 2 @p

@@ -1,0 +1,16 @@
+/give @p minecraft:leather_chestplate 1 0 {ench:[{id:34,lvl:5}],display:{Name:Bakterieller Anzug,color:3029133}}
+/give @p minecraft:leather_leggings 1 0 {ench:[{id:34,lvl:5}],display:{Name:Bakterielles Unterstück,color:3029133}}
+/give @p minecraft:leather_boots 1 0 {ench:[{id:34,lvl:5},{id:8,lvl:5}],display:{Name:Bakterielle Schwimmflossen,color:3029133}}
+/give @p minecraft:leather_helmet 1 0 {ench:[{id:34,lvl:5},{id:5,lvl:5},{id:6,lvl:5}],display:{Name:Bakterielle Wasserkappe,color:3029133}}
+/give @p minecraft:wooden_sword 1 0 {ench:[{id:34,lvl:10},{id:16,lvl:3}],display:{Name:Schwemmholzdolch}}
+/effect @p minecraft:water_breathing 1000000 0 true
+/effect @p minecraft:night_vision 1000000 0 true
+/effect @p minecraft:speed 1000000 0 true
+/effect @p minecraft:fire_resistance 1000000 0 true
+/effect @p minecraft:saturation 1000000 1 true
+/tellraw @a {text:"Nautist",bold:true,color:green}
+/gamemode 2 @p
+/tp @p 60 81 539
+/execute @p ~ ~ ~ /playsound mob.blaze.breathe @p ~ ~ ~ 50 1 1
+/title @p title {text:"Nautist",bold:true,color:green}
+/title @p subtitle {text:"Dmg: 88",color:white}

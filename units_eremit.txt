@@ -1,0 +1,16 @@
+/effect @p minecraft:saturation 100000 9 true
+/effect @p minecraft:haste 100000 0 true
+/effect @p minecraft:strength 1000000 6 true
+/effect @p minecraft:health_boost 1000000 2 true
+/effect @p minecraft:regeneration 5 9 true
+/scoreboard players set @p class 3
+/give @p minecraft:cooked_mutton 64
+/effect @p minecraft:resistance 1000000 0 true
+/give @p minecraft:bow 1 0
+/give @p minecraft:arrow 16
+/tellraw @a {text:"Eremit",bold:true,color:green}
+/gamemode 2 @p
+/tp @p 60 81 539
+/execute @p ~ ~ ~ /playsound mob.blaze.breathe @p ~ ~ ~ 50 1 1
+/title @p title {text:"Eremit",bold:true,color:green}
+/title @p subtitle {text:"Dmg: 101",color:white}

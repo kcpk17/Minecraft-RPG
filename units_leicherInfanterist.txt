@@ -1,0 +1,15 @@
+/give @p minecraft:chainmail_chestplate 1 0 {ench:[{id:34,lvl:7}],display:{Name:Gewöhnliches Hemd}}
+/give @p minecraft:chainmail_leggings 1 0 {ench:[{id:34,lvl:7}],display:{Name:Gewöhnliche Hosen}}
+/give @p minecraft:chainmail_helmet 1 0 {ench:[{id:34,lvl:7}],display:{Name:Gewöhnlicher Helm}}
+/give @p minecraft:leather_boots 1 0 {ench:[{id:34,lvl:10}],display:{Name:Gewöhnliche Stiefel}}
+/give @p minecraft:iron_sword 1 0 {ench:[{id:34,lvl:5}],display:{Name:Gewöhnliches Schwert}}
+/effect @p minecraft:weakness 1000000 1 true
+/effect @p minecraft:haste 1000000 3 true
+/effect @p minecraft:speed 1000000 1 true
+/effect @p minecraft:saturation 1000000 1 true
+/tellraw @a {text:"Leichter Infanterist",bold:true,color:white}
+/gamemode 2 @p
+/tp @p 60 81 539
+/execute @p ~ ~ ~ /playsound mob.blaze.breathe @p ~ ~ ~ 50 1 1
+/title @p title {text:"Leichter Infanterist",bold:true,color:white}
+/title @p subtitle {text:"Dmg: 60, Dmg taken: 74",color:white}

@@ -1,0 +1,15 @@
+/execute @p ~ ~ ~ /playsound mob.blaze.breathe @p ~ ~ ~ 50 1 1
+/effect @p minecraft:saturation 1000000 0 true
+/effect @p minecraft:nausea 1000000 0 true
+/effect @p minecraft:speed 1000000 2 true
+/effect @p minecraft:weakness 1000000 1 true
+/effect @p minecraft:night_vision 1000000 0 true
+/effect @p minecraft:resistance 1000000 0 true
+/scoreboard players set @p class 14
+/tellraw @a {text:"Ninja",bold:true,color:red}
+/title @p title {text:"Ninja",bold:true,color:red}
+/title @p subtitle {text:"",color:white}
+/gamemode 2 @p
+/tp @p 60 81 539
+/give @p minecraft:wooden_sword 1 0 {Unbreakable:1,display:{Name:Traditionelles Katana,Lore:["Ein uraltes japanisches Katana,","dass schon viele Kämpfe durchgestanden hat.","Jedoch nie dem Sieger gehörte...","Denn die schlechte Qualität des Schwertes","sorgt dafür, dass der Duellant mit einem","riesigen Nachteil in den Kampf geht."]}}
+/give @p minecraft:leather_chestplate 1 0 {ench:[{id:34,lvl:10}],display:{Name:Traditioneller Kimono,color:1644054}}

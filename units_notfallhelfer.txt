@@ -1,0 +1,14 @@
+/effect @p minecraft:mining_fatigue 1000000 0 true
+/give @p minecraft:iron_sword 1 0 {ench:[{id:34,lvl:10}],display:{Name:Notfallwaffe}}
+/give @p minecraft:potion 9 16389 {CustomPotionEffects:[1:{Id:6,Amplifier:3,Duration:20}]}
+/give @p minecraft:potion 18 16389 {CustomPotionEffects:[1:{Id:6,Amplifier:1,Duration:20}]}
+/effect @p minecraft:speed 1000000 0 true
+/give @p minecraft:potion 4 16395 {CustomPotionEffects:[1:{Id:11,Amplifier:1,Duration:3000}]}
+/give @p minecraft:potion 4 16384 {CustomPotionEffects:[1:{Id:22,Amplifier:4,Duration:300}]}
+/effect @p minecraft:saturation 1000000 1 true
+/tellraw @a {text:"Notfallhelfer",bold:true,color:green}
+/gamemode 2 @p
+/tp @p 60 81 539
+/execute @p ~ ~ ~ /playsound mob.blaze.breathe @p ~ ~ ~ 50 1 1
+/title @p title {text:"Notfallhelfer",bold:true,color:green}
+/title @p subtitle {text:"Dmg: 70, Dmg taken: 143",color:white}

@@ -1,0 +1,8 @@
+/scoreboard objectives add kills playerKillCount Kills
+/scoreboard objectives add tod deathCount Deaths
+/scoreboard objectives add dmgdealttest stat.damageDealt dmgdealttest
+/scoreboard objectives add dmgtaken stat.damageTaken dmgtaken
+/scoreboard objectives add dmgdealt stat.damageDealt dmgdealt
+/scoreboard objectives add bati stat.useItem.minecraft.bow Batman
+/scoreboard objectives add playernumber dummy Spieler
+/scoreboard objectives add class trigger class

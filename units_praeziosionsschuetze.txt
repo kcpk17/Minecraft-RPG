@@ -1,0 +1,15 @@
+/give @p minecraft:leather_chestplate 1 0 {ench:[{id:1,lvl:1},{id:34,lvl:5}],display:{Name:Wohliger Lederüberzug}}
+/give @p minecraft:leather_leggings 1 0 {ench:[{id:34,lvl:5}],display:{Name:Wohlige Schützenhosen}}
+/give @p minecraft:leather_boots 1 0 {ench:[{id:34,lvl:5}],display:{Name:Wohlige Stiefel}}
+/give @p minecraft:leather_helmet 1 0 {ench:[{id:34,lvl:5}],display:{Name:Wohlsitzender Helm}}
+/give @p minecraft:bow 1 0 {ench:[{id:48,lvl:6},{id:49,lvl:3},{id:51,lvl:1},{id:34,lvl:5}],display:{Name:Präziser Bogen}}
+/give @p minecraft:arrow 1 0
+/effect @p minecraft:saturation 1000000 2 true
+/effect @p minecraft:speed 1000000 0 true
+/effect @p minecraft:mining_fatigue 1000000 1 true
+/tellraw @a {text:"Präzisionsschütze",bold:true,color:white}
+/gamemode 2 @p
+/tp @p 60 81 539
+/execute @p ~ ~ ~ /playsound mob.blaze.breathe @p ~ ~ ~ 50 1 1
+/title @p title {text:"Präzisionsschütze",bold:true,color:white}
+/title @p subtitle {text:"Dmg: 220, Dmg taken: 103",color:white}

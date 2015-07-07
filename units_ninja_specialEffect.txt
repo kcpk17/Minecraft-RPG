@@ -1,0 +1,5 @@
+/setblock ~ ~ ~-1 minecraft:redstone_block 0 replace
+/setblock ~ ~ ~1 minecraft:planks 0 replace
+/execute @a[score_dmgdealttest_min=1,score_class=14,score_class_min=14] ~ ~ ~ /particle depthsuspend ~ ~ ~ 1 1 1 0.6 10000
+/execute @a[score_dmgdealttest_min=1,score_class=14,score_class_min=14] ~ ~ ~ /tp @a[r=2,score_class=!14] ~ ~7 ~
+/scoreboard players set @a[score_class_min=14,score_class=14,score_dmgdealttest_min=1] dmgdealttest 0

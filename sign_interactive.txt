@@ -1,0 +1,66 @@
+Spieler 1
+/give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/scoreboard players set @p playernumber 1\"},text:\"Spieler 1\",color:blue}"}}
+Spieler 2
+/give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/scoreboard players set @p playernumber 2\"},text:\"Spieler 2\",color:blue}"}}
+Spieler 3
+/give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/scoreboard players set @p playernumber 3\"},text:\"Spieler 3\",color:blue}"}}
+Spieler 4
+/give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/scoreboard players set @p playernumber 4\"},text:\"Spieler 4\",color:blue}"}}
+Zufall: Gebiet
+/give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/setblock 51 48 545 minecraft:redstone_block 0 replace\"},text:\"Zufall: Gebiet\",color:blue}"}}
+Zufall: Klasse
+/give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/setblock 52 53 548 minecraft:redstone_block 0 replace\"},text:\"Zufall: Klasse\",color:blue}"}}
+Zufall: Pferdeklasse
+/give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/setblock 43 53 556 minecraft:redstone_block 0 replace\"},text:\"Zufall:\",color:blue}",Text3:"{text:\"Pferdeklasse\",color:blue}"}}
+Phantom (DD)
+/give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 68 16 542\"},text:\"Phantom\",color:blue}",Text3:"{text:\"(DD)\",color:blue}"}}
+Präzisionsschütze (DD)
+/give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 69 34 542\"},text:\"Präzisions-\",color:blue}",Text3:"{text:\"schütze\",color:blue}",Text4:"{text:\"(DD)\",color:blue}"}}
+Feuerpfeilschütze (DD)
+/give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 68 34 542\"},text:\"Feuerpfeil-\",color:blue}",Text3:"{text:\"schütze\",color:blue}",Text4:"{text:\"(DD)\",color:blue}"}}
+Leichter Infanterist (DD)
+/give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 69 25 542\"},text:\"Leichter\",color:blue}",Text3:"{text:\"Infanterist\",color:blue}",Text4:"{text:\"(DD)\",color:blue}"}}
+Waldläufer (DD)
+/give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 69 28 542\"},text:\"Waldläufer\",color:blue}",Text3:"{text:\"(DD)\",color:blue}"}}
+Alchemist (DD)
+/give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 69 19 542\"},text:\"Alchemist\",color:blue}",Text3:"{text:\"(DD)\",color:blue}"}}
+Assasine (DD)
+/give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 68 46 542\"},text:\"Assasine\",color:blue}",Text3:"{text:\"(DD)\",color:blue}"}}
+Hochlandkrieger (DD)
+/give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 68 43 542\"},text:\"Hochlandkrieger\",color:blue}",Text3:"{text:\"(DD)\",color:blue}"}}
+Attentäter (DD)
+/give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 69 46 542\"},text:\"Attentäter\",color:blue}",Text3:"{text:\"(DD)\",color:blue}"}}
+Mönch (Tank)
+/give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 69 37 542\"},text:\"Mönch\",color:blue}",Text3:"{text:\"(Tank)\",color:blue}"}}
+Todesbote (DD)
+/give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 68 12 542\"},text:\"Todesbote\",color:blue}",Text3:"{text:\"(DD)\",color:blue}"}}
+Irrer (DD)
+/give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 69 12 542\"},text:\"Irrer\",color:blue}",Text3:"{text:\"(DD)\",color:blue}"}}
+Medusa (DD)
+/give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 69 3 549\"},text:\"Medusa\",color:blue}",Text3:"{text:\"(DD)\",color:blue}"}}
+Nautist (DD)
+/give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 68 28 542\"},text:\"Nautist\",color:blue}",Text3:"{text:\"(DD)\",color:blue}"}}
+Imperialer Ritter (Tank)
+/give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 69 40 542\"},text:\"Imperialer\",color:blue}",Text3:"{text:\"Ritter\",color:blue}",Text4:"{text:\"(Tank)\",color:blue}"}}
+Unterstützer (Support)
+/give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 68 19 542\"},text:\"Unterstützer\",color:blue}",Text3:"{text:\"(Support)\",color:blue}"}}
+Königlicher Ritter (DD)
+/give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 68 40 542\"},text:\"Königlicher\",color:blue}",Text3:"{text:\"Ritter\",color:blue}",Text4:"{text:\"(DD)\",color:blue}"}}
+Kriegsveteran (Tank)
+/give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 69 43 542\"},text:\"Kriegsveteran\",color:blue}",Text3:"{text:\"(Tank)\",color:blue}"}}
+Barbar (DD)
+/give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 68 37 542\"},text:\"Barbar\",color:blue}",Text3:"{text:\"(DD)\",color:blue}"}}
+Höllenzauberer (DD)
+/give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 69 16 542\"},text:\"Höllenzauberer\",color:blue}",Text3:"{text:\"(DD)\",color:blue}"}}
+Giftmischer (DD)
+/give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 68 25 542\"},text:\"Giftmischer\",color:blue}",Text3:"{text:\"(DD)\",color:blue}"}}
+Eremit (DD)
+/give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 68 22 542\"},text:\"Eremit\",color:blue}",Text3:"{text:\"(DD)\",color:blue}"}}
+Höfischer Bote (DD)
+/give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 69 22 542\"},text:\"Höfischer Bote\",color:blue}",Text3:"{text:\"(DD)\",color:blue}"}}
+Doktor (Heal)
+/give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 68 31 542\"},text:\"Doktor\",color:blue}",Text3:"{text:\"(Heal)\",color:blue}"}}
+Notfallhelfer (Heal)
+/give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 69 31 542\"},text:\"Notfallhelfer\",color:blue}",Text3:"{text:\"(Heal)\",color:blue}"}}
+Ninja (DD)
+/give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 69 6 549\"},text:\"Ninja\",color:blue}",Text3:"{text:\"(DD)\",color:blue}"}}

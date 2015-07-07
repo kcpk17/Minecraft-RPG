@@ -1,0 +1,95 @@
+Version History (31.05.15)
+
+Bisher vollbrachte Taten:
+
+-erste Klasse hinzugefügt (Imperialer Ritter)
+-erste Arena hizugefügt (Wald)
+
+-weitere Klassen hinzugefügt (Präziosionsschütze, Feuerpefeilschütze, Leichter Infanterist, Barbar, Mönch, Assasine, Attentäter, Hochlandkrieger, Kriegsveteran, Königlicher Ritter
+
+-Klassenrandomizer erstellt
+-weitere Arenen hinzugefügt (Dschungelberg, Sumpf, Wüste)
+
+-Gebietsrandomizer erstellt
+-Scoreboard-Objectives können per Cmdblock zurückgesetzt werden
+-experimentelle Version des Höllenzauberers
+-weitere Klassen hinzugefügt (Nautist, Unterstützer, Giftmischer, Notfallhelfer, Doktor)
+-eine weitere Klasse hinzugefügt von R. v. E. (Alchemist)
+
+-weitere Klassen hinzugefügt (Waldläufer, Höfischer Bote)
+-Höllenzauberermechanik verbessert
+-experimentelle Version des Eremiten
+
+-weitere Arenen hinzugefügt (Dorf, Bergausläufer, Berglandschaft)
+
+-Höllenzauberer fertiggestellt
+-Phantom (Klasse) hinzugefügt
+-Randomizer für Startposition in der Arena hinzugefügt
+
+-Klassenbalancing
+-Objectives dmgdealt, dmgtaken, class, bati, playernumber, kills, tod hinzugefügt
+-implemtierung des Höllenzauberers in alle Arenen
+
+-Absturz der ganzen Welt
+
+-Rettung der Welt mithilfe MCEdit
+
+-Überarbeitung des Höllenzauberers
+-Neuer Randomizer für Spielerstartplazierung in der Arena (nutzen des playernumber objective)
+
+-weitere Klassen hinzugefügt (Medusa, Todesbote)
+-eine weitere Klasse hinzugefügt von J. S. (Irrer)
+-Bau der Lobby
+
+-weitere Klassen hizugefügt (Religiöser Terrorist, Leichte Kavallerie, Seelensammler, Mangudai, Dschigit, Gewöhnlicher Reiter, Kürassier)
+-entfernen der Medusa (Klasse), da nicht ausgereift und Lags verursacht wurden
+-Bau der Lobby beendet
+
+-Arena "Wald" kann nun via Schildklick in der Lobby betreten werden
+-Eremit (Klasse) fertiggestellt
+
+-nachträgliche Versionsgeschichte wird geschrieben
+-Aufzeichnung der verwendeten Commands
+-alle Schilder in der Lobby können nun angeklickt werden
+-dmggealt objective wird jetzt unter dem Namensschild angezeigt
+
+15.06.15
+-stealth-Klassen haben jetzt Hunger und Nahrung im Inventar (Attentäter: Bread, Assasine: Cooked Fish, Irrer: Cooked Rabbit)
+-Infotexte bei der Klassenwahl ausgebaut
+
+01.07.15
+-Nahrung der Stealth-Klassen wurde reduziert
+-Kriegsveteran besitzt keine Protection mehr
+-Klassen-/HorseKlassen-/Gebietsrandomizer wurden überarbeitet, verbessert und verkleinert
+-"Zufall: Klasse"-Schild ist jetzt neben dem Spawnpoint (vormals Lobby)
+-Alle interaktive Schilder haben jetzt blauen Text
+-Klassen können jetzt per Schildklick ausgewählt werden
+-Mönch hat jetzt Resistance 4
+-Bei Auswahl folgenden Klassen Mönch, Barbar, Imperialer Ritter, Königlicher Ritter wird eine kurze Info über die Klasse dem Spieler als Titel gezeigt
+-Bei Auswahl folgenden Klassen Mönch, Barbar, Imperialer Ritter, Königlicher Ritter wird der Sound blaze.breathe dem Spieler gespielt
+
+02.07.15
+-Bei Auswahl folgenden Klassen Assasine, Attentäter, Kriegsveteran, Hochlandkrieger wird eine kurze Info über die Klasse dem Spieler als Titel gezeigt
+-Bei Auswahl folgenden Klassen Assasine, Attentäter, Kriegsveteran, Hochlandkrieger wird der Sound blaze.breathe dem Spieler gespielt
+
+03.07.15
+-Eremit besitzt keine Nahrung mehr
+-Bei Auswahl aller Klassen wird jetzt eine kurze Info über die Klasse dem Spieler als Titel gezeigt
+-Bei Auswahl aller Klassen wird jetzt der Sound blaze.breathe dem Spieler gespielt
+-RPG-Welt jetzt unabhängig von der Labor-Welt
+-scoreboard objectives in der RPG-Welt initiiert
+-gamerules in die RPG-Welt implementiert
+
+05.07.15
+-Alle Arenen in die RPG-Welt implementiert
+-Auf Version 1.8.7 updated
+
+06.07.15
+-Dorf und Berglandschaft haben das Skelett für die neue Zufallsplatzierung erhalten
+
+07.07.15
+-Neue Klasse (Ninja) hinzugefügt
+-objective dmgdealttest wird jetzt bei Auswahl der Arena zurückgesetzt
+-Ausgeteilter Schaden wird jetzt im Slot sidebar angezeigt
+-Anzahl Tode wird jetzt im Slot list angezeigt
+-Anzahl Tötungen wird jetzt im Slot belowName angezeigt
