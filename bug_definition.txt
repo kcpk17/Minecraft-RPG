@@ -1,0 +1,10 @@
+Bugklassifizierung
+
+1 - In Verbindung mit Klassen
+2 - In Verbindung mit Gebieten
+3 - In Verbindung mit Spezialeffekten
+4 - In Verbindung mit Sonstigem
+
+Beispiel:
+
+Bugnr. 3.4	->	4. Bug der Kategorie "In Verbindung mit Spezialeffekten"

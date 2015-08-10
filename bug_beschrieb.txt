@@ -1,0 +1,9 @@
+Bugnr.:		1.1
+
+Beschrieb: 	Bei sechs Klassen (Imperialer Ritter, Königlicher Ritter, Hochlandkrieger, Kriegsveteran, Assassine, Attentätter) wird der Infotitel manchmal bei der falschen Person angezeigt
+
+Ursache:	Wenn zwei oder mehr Personen im Klassenwahlraum stehen, liegt der Command mit dem Infotitel näher bei den falschen Personen als bei der wählenden Person. Dies ist zurückzuführen auf die Platzierung der Commands der Klassen.
+
+Status:		Ungelöst
+
+Datum:		09.08.15

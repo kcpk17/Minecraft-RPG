@@ -93,3 +93,20 @@ Bisher vollbrachte Taten:
 -Ausgeteilter Schaden wird jetzt im Slot sidebar angezeigt
 -Anzahl Tode wird jetzt im Slot list angezeigt
 -Anzahl Tötungen wird jetzt im Slot belowName angezeigt
+
+16.07.15
+-Doktor, Naotfallhelfer können jetzt auch zufällig bei der Klassenwahl ausgewählt werden
+
+08.08.15
+-Arenabegrenzung bei Dschungel, Dorf fertig gestellt
+-Höhe der Arenabegrenzung bei allen Arenen festgestellt und markiert
+
+09.08.15
+-Alle Arenaabgrenzungen sind fertiggestellt. Andy-sicher
+-Heiler haben jetzt nur noch Steinschwerter (früher Eisenschwerter)
+-Heiler haben jetzt Weakness 2
+-Interaktives Sign "Dorf" erstellt. Jedoch ohne Effekt, da der Randomizer für die Gebiete noch nicht fertig ist
+-Buginfo Dokument angelegt
+
+10.08.15
+-Startkoordinaten für alle Arenen festgestellt

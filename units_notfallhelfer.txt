@@ -12,3 +12,4 @@
 /execute @p ~ ~ ~ /playsound mob.blaze.breathe @p ~ ~ ~ 50 1 1
 /title @p title {text:"Notfallhelfer",bold:true,color:green}
 /title @p subtitle {text:"Dmg: 70, Dmg taken: 143",color:white}
+/effect @p minecraft:weakness 1000000 1 true

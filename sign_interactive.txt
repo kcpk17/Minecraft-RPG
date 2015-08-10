@@ -64,3 +64,5 @@ Notfallhelfer (Heal)
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 69 31 542\"},text:\"Notfallhelfer\",color:blue}",Text3:"{text:\"(Heal)\",color:blue}"}}
 Ninja (DD)
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 69 6 549\"},text:\"Ninja\",color:blue}",Text3:"{text:\"(DD)\",color:blue}"}}
+Dorf
+/give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/setblock 69 53 567 minecraft:redstone_block 0 replace\"},text:\"Dorf\",color:blue}"}}
