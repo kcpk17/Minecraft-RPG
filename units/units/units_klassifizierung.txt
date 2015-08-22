@@ -1,0 +1,28 @@
+Klasse			Rolle	Dmgtyp		Spezifikation	Waffenart	Dmgtyp Nebenhand	Zusatz
+
+Alchemist		dd	burst/dot	fire		potion		dot - fire		verbreitet beim potion werfen feuer
+Assassine		dd	burst		-		sword		-			-
+Attentäter		dd	dot		fire		sword		-			-
+barbar			dd	burst		-		axe		-			-
+doktor			heal	heal		instant		potion		burst			-
+eremit			dd	burst		-		hand		bow			spawnt wölfe mit burst-dmg
+feuerpfeilschütze	dd	dot		fire		bow		-			-
+giftmischer		dd	dot		poison		potion		burst			-
+hochlandkrieger		dd	dot		fire		sword		-			rüstung wirft dmg auf angreifer zurück
+höfischer Bote		dd	dot		fire		sword		-			-
+höllenzauberer		dd	burst		-		fireball	burst			-
+imperialer Ritter	tank	burst		-		sword		-			-
+irrer			dd	burst		-		bow		-			-
+königlicher Ritter	dd	burst		-		sword		-			-
+kriegsveteran		tank	burst		-		sword		-			-
+leichter Infanterist	dd	burst		-		sword		-			-
+medusa			dd	??		??		??		??			??
+mönch			tank	dot		fire		stick		-			-
+nautist			dd	burst		-		sword		-			-
+ninja			dd	special		fall-dmg	sword		-			der schlag schleudert gegner in die luft
+notfallhelfer		heal	heal		regeneration	potion		burst			-
+phantom			dd	burst		-		sword		burst			beim abschiessen eines pfeiles erhält das phantom invisibility
+präzisionsschütze	dd	burst		-		bow		-			-
+todesbote		dd	dot		poison		bone		-			der schlag vergiftet den gegner
+unterstützer		support	support		instant		potion		burst			-
+waldläufer		dd	burst		-		sword/bow	-			hat schwert und bogen mit gleicher stärke			

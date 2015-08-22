@@ -1,0 +1,14 @@
+-evtl. neue klasse mit healt_boost 255, saturation, keine rüssi, weakness, swiftness. vllt der neue barbar mit axt
+-potionklassen erhalten nach geworfener potion eine der klasse angepassten lingering potion:
+	Giftmischer: wither
+	Alchemist: instant_dmg
+	Unterstützer: swiftness
+	Notfallhelfer: instant_health
+	Doktor: regeneration
+-neue Pfeilklassen (rdd) erhalten zur untertützung wenige lingering potions:
+	dot: poison
+	dps (burst): slowness
+-Waldläufer erhält lingering potions (effekt: glowing)
+-Tankklassen erhalten Schild mit unbreaking 255, rüstung wird nicht verringert/sehr wenig verringert
+-schematic von special effects von Eremit&höllenzauberer machen und neben lobby setzen
+-alchemist bekommt feuereffekt

@@ -1,0 +1,9 @@
+Klasse			Rolle	Dmgtyp		Spezifikation	Waffenart	Dmgtyp Nebenhand	Zusatz
+
+Dschigit		dd	burst		-		torch		-			Reiter
+Gewöhnlicher Reiter	dd	burst		-		sword		-			Reiter
+Kürassier		tank	burst		-		sword		-			Reiter
+leichte Kavallerie	dd	burst		-		sword		-			Reiter
+Mangudai		dd	burst		-		bow		-			Reiter
+Religiöser Terrorist	dd	burst		-		fireball	burst			Reiter
+Seelensammler		dd	burst		-		hoe		-			Reiter

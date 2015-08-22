@@ -110,3 +110,12 @@ Bisher vollbrachte Taten:
 
 10.08.15
 -Startkoordinaten für alle Arenen festgestellt
+
+19.08.15
+-Rollen der Klassen festgehalten
+-Lore der Klassen begonnen. Erste Versionen fertig
+-zukünftige Absichten schriftlich festgehalten
+-Assasine in Assassine unbenannt
+
+22.08.15
+-Reorganisation der Dateien
