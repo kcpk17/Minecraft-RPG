@@ -4,7 +4,6 @@
 /effect @p minecraft:health_boost 1000000 2 true
 /effect @p minecraft:regeneration 5 9 true
 /scoreboard players set @p class 3
-/give @p minecraft:cooked_mutton 64
 /effect @p minecraft:resistance 1000000 0 true
 /give @p minecraft:bow 1 0
 /give @p minecraft:arrow 16
