@@ -12,3 +12,16 @@
 -Tankklassen erhalten Schild mit unbreaking 255, rüstung wird nicht verringert/sehr wenig verringert
 -schematic von special effects von Eremit&höllenzauberer machen und neben lobby setzen
 -alchemist bekommt feuereffekt
+-Medusa:
+	Saturation
+	Slowness
+	Eisenschwert mit Fire Aspect 3
+	Falls Gegner Medusa ansieht, und sie ihn auch, slowness 5 auf Gegner für 3 sekunden
+-Mönch erhält, wenn er geschlagen wird, speed 2 für 3 sekunden (erst mit update 1.9 einführbar)
+-Ninja:
+	Umbenennung in Elementbändiger
+	Folgende Elemente: Erde, Wasser, Feuer, Luft
+	Erde: Schlag auf den Boden (nah stehender Gegner), Gegner wird in die Luft katapultiert
+	Luft: Knockback XVII (andere Waffe als Erdwaffe)
+	Feuer: Wird gecastet indem man ein Item droppt (Unsichtbare Kuh wird gespawnt. Wird die Kuh getötet, wird die Zeit gemessen und Cast ausgeführt. Der Cast kann also genug früh unterbrochen werden), Blitze spawnen rund um den Bändiger (Damit der Boden kein Feuer fängt, wird sofort wasser unter dem Blitz gespawnt und sofort mit luft wieder aufgefüllt)
+	Wasser: wird gecastet indem man ein Item droppt (Unsichtbare Kuh wird gespawnt) Solange das Item auf dem Boden liegt, regnet es

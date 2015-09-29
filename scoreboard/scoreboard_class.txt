@@ -14,3 +14,4 @@ class objectives:
 11	Dschigit
 12	Medusa
 14	Ninja
+15	Mönch

@@ -125,3 +125,10 @@ Bisher vollbrachte Taten:
 
 27.09.15
 -Gewöhnlicher Reiter hat jetzt Schärfe IV
+
+29.09.15
+-Eremiten haben jetzt Resistance I
+-Imperiale Ritter haben jetzt Protection II ausser auf dem Beinpanzer, wo es wie vorher Protection I ist
+-Königliche Ritter haben jetzt Eisenrüstung, nur die Diamantschuhe bleiben erhalten
+-Kriegsveteranen haben jetzt Protection II, wobei auf dem Helm Protection IV ist
+-Giftmischer haben jetzt Speed I und Depth Strider I
