@@ -2,7 +2,8 @@
 /effect @p minecraft:saturation 1000000 0 true
 /effect @p minecraft:wither 1000000 0 false
 /effect @p minecraft:regeneration 1000000 0 true
-/give @p minecraft:stone_hoe 1 0 {ench:[{id:34,lvl:1}],display:{Name:Verlorene Sense,Lore:["Die verlorene Sense sucht","seinen Besitzer. Dieser","ist jedoch verstorben und die","Sense wird alle Seelen absuchen","bis sie den Schmerz akzeptiert."]}}
+/effect @p minecraft:resistance 1000000 0 true
+/give @p minecraft:stone_hoe 1 0 {ench:[{id:20,lvl:2},{id:34,lvl:1}],display:{Name:Verlorene Sense,Lore:["Die verlorene Sense sucht","seinen Besitzer. Dieser","ist jedoch verstorben und die","Sense wird alle Seelen absuchen","bis sie den Schmerz akzeptiert."]}}
 /give @p minecraft:leather_helmet 1 0 {ench:[{id:34,lvl:10},{id:7,lvl:7},{id:62,lvl:1}],display:{Name:Verlorener Helm,Lore:["Der Helm scheint verloren zu sein..."],color:10133921}}
 /give @p minecraft:leather_chestplate 1 0 {ench:[{id:34,lvl:10},{id:7,lvl:10},{id:62,lvl:1}],display:{Name:Verlorener Lederschutz,Lore:["Die Person, welche den Lederschutz","besass, wird momentan fürchterlich","frieren."],color:10133921}}
 /give @p minecraft:leather_leggings 1 0 {ench:[{id:34,lvl:10},{id:7,lvl:7},{id:62,lvl:1}],display:{Name:Verlorener Lederschurz,Lore:["Dieser Schurz wurde einfach","am Wegrand zurückgelassen."],color:10133921}}

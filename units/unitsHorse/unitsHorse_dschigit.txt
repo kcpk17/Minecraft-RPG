@@ -1,12 +1,12 @@
 /scoreboard players set @p class 11
 /give @p minecraft:leather_helmet 1 0 {ench:[{id:34,lvl:1}],display:{Name:Gekonnter Turban,Lore:["Wooooow....","Einfach nur woooow!"],color:11642407}}
-/give @p minecraft:leather_chestplate 1 0 {ench:[{id:34,lvl:2}],display:{Name:Gekonnte Brustjacke,Lore:["Die Jacke erlaubt dem","Träger Kunstgriffe auf","dem Pferd auszuüben."],color:11642407}}
+/give @p minecraft:leather_chestplate 1 0 {ench:[{id:1,lvl:1},{id:3,lvl:2},{id:34,lvl:2}],display:{Name:Gekonnte Brustjacke,Lore:["Die Jacke erlaubt dem","Träger Kunstgriffe auf","dem Pferd auszuüben."],color:11642407}}
 /give @p minecraft:leather_leggings 1 0 {ench:[{id:34,lvl:1}],display:{Name:Gekonnter Lederwams,Lore:["Luftige Leichtigkeit wie das","Licht. Der Lederwams machts","möglich."],color:11642407}}
 /give @p minecraft:leather_boots 1 0 {ench:[{id:34,lvl:1}],display:{Name:Gekonnte Sandalen,Lore:["Zum Laufen weniger geeignet.","Jedoch zum Reiten geschaffen."],color:11642407}}
 /give @p minecraft:fishing_rod 1 0 {ench:[{id:34,lvl:10},{id:16,lvl:4}],display:{Name:Gekonnte  Rute,Lore:["Eine häufig verwendete Waffe","um einen Kunstgriff zu","machen, damit der Reiter","den Erstschlag machen kann."]}}
-/give @p minecraft:torch 1 0 {ench:[{id:16,lvl:5},{id:19,lvl:3}],display:{Name:Fackel des Könnens,Lore:["Ein Fackelmeister oder eine","Fackelmeisterin kann die","Fackel so schnell schwingen,","dass der Gegner die Bewegung","gar nicht sehen kann."]}}
+/give @p minecraft:torch 1 0 {ench:[{id:16,lvl:6},{id:19,lvl:3}],display:{Name:Fackel des Könnens,Lore:["Ein Fackelmeister oder eine","Fackelmeisterin kann die","Fackel so schnell schwingen,","dass der Gegner die Bewegung","gar nicht sehen kann."]}}
 /effect @p minecraft:saturation 1000000 0 true
-/effect @p minecraft:weakness 1000000 1 true
+
 /effect @p minecraft:haste 1000000 31 true
 /give @p minecraft:lead 1 0 {display:{Name:Leine,Lore:["Für Störrisches..."]}}
 /tellraw @a {text:"Dschigit",bold:true,color:red}

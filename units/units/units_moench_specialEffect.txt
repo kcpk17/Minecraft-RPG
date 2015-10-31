@@ -1,0 +1,7 @@
+		/setblock ~ ~ ~1 minecraft:redstone_block 0 replace
+same time:	/setblock ~1 ~ ~ minecraft:planks 0 replace
+same time:	/testfor @a[score_class=15,score_class_min=15,score_dmgtakentest_min=1]
+
+		/effect @a[score_dmgtakentest_min=1,score_class=15,score_class_min=15] minecraft:strength 2 0 false
+
+		/scoreboard players set @a[score_class=15,score_class_min=15,score_dmgtakentest_min=1] dmgtaken 0

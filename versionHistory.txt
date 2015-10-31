@@ -121,10 +121,10 @@ Bisher vollbrachte Taten:
 -Reorganisation der Dateien
 
 29.08.15
--Eremit hat kein Hammelfleisch mehr
+-Eremiten haben kein Hammelfleisch mehr
 
 27.09.15
--Gewöhnlicher Reiter hat jetzt Schärfe IV
+-Ein Fehler im Code wurde gefixt, dass Gewöhnliche Reiter jetzt Sharpness IV haben
 
 29.09.15
 -Eremiten haben jetzt Resistance I
@@ -132,3 +132,18 @@ Bisher vollbrachte Taten:
 -Königliche Ritter haben jetzt Eisenrüstung, nur die Diamantschuhe bleiben erhalten
 -Kriegsveteranen haben jetzt Protection II, wobei auf dem Helm Protection IV ist
 -Giftmischer haben jetzt Speed I und Depth Strider I
+
+01.10.15
+-Attentäter haben jetzt Fire Aspect VII
+-Hochlandkrieger haben jetzt Sharpness II
+-Höfische Boten haben jetzt Fire Aspect III und Sharpness I
+-Leichte Infanteristen haben jetzt Sharpness II
+-Kürassiere haben jetzt Projectile Protection III und Feahter Fall I auf "Spirituelle Stiefelchen"
+-Seelensammler haben jetzt Resistance I
+-Dschigiti haben jetzt Fire Protection I und Blast Protection II auf "Gekonnter Brustjacke"
+-Dschigiti haben jetzt keine Weakness mehr
+-Dschigiti haben jetzt Sharpness VI auf "Fackel des Könnens"
+-Gewöhnlicher Reiter haben jetzt Sharpness II
+-Leichte Kavallerie hat jetzt Sharpness II und "Heroisches Schwert" ist jetzt aus Diamant
+-Seelensammler haben jetzt Fire Aspect II
+-Mönche erhalten jetzt nach Schaden Strength I für 2 Sekunden

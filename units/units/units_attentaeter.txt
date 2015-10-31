@@ -1,4 +1,4 @@
-/give @p minecraft:wooden_sword 1 0 {ench:[{id:34,lvl:40},{id:19,lvl:1},{id:20,lvl:3}],display:{Name:Glühende Klinge}}
+/give @p minecraft:wooden_sword 1 0 {ench:[{id:34,lvl:40},{id:19,lvl:1},{id:20,lvl:7}],display:{Name:Glühende Klinge}}
 /effect @p minecraft:invisibility 1000000 0 true
 /effect @p minecraft:speed 1000000 0 true
 /effect @p minecraft:haste 1000000 1 true

@@ -10,6 +10,7 @@
 /effect @p minecraft:blindness 1000000 0 true
 /effect @p minecraft:health_boost 1000000 4 true
 /effect @p minecraft:resistance 1000000 3 true
+/effect @p minecraft:instant_health 1 10 true
 /tellraw @p {text:"Mönch",bold:true,color:yellow}
 /gamemode 2 @p
 /tp @p 60 81 539

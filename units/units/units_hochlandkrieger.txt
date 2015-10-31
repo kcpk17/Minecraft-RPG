@@ -2,7 +2,7 @@
 /give @p minecraft:iron_leggings 1 0 {ench:[{id:7,lvl:4},{id:34,lvl:5}],display:{Name:Hochländischer Beinschutz}}
 /give @p minecraft:iron_boots 1 0 {ench:[{id:7,lvl:2},{id:34,lvl:5}],display:{Name:Hochländische Eisenstiefel}}
 /give @p minecraft:iron_helmet 1 0 {ench:[{id:7,lvl:2},{id:34,lvl:5}],display:{Name:Hochländischer Kriegshelm}}
-/give @p minecraft:stone_sword 1 0 {ench:[{id:16,lvl:1},{id:20,lvl:5},{id:34,lvl:7}],display:{Name:Hochlandschwert}}
+/give @p minecraft:stone_sword 1 0 {ench:[{id:16,lvl:2},{id:20,lvl:5},{id:34,lvl:7}],display:{Name:Hochlandschwert}}
 /effect @p minecraft:fire_resistance 1000000 1 true
 /effect @p minecraft:saturation 1000000 0 true
 /tellraw @a {text:"Hochlandkrieger",bold:true,color:gray}

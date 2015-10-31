@@ -17,7 +17,6 @@
 	Slowness
 	Eisenschwert mit Fire Aspect 3
 	Falls Gegner Medusa ansieht, und sie ihn auch, slowness 5 auf Gegner für 3 sekunden
--Mönch erhält, wenn er geschlagen wird, speed 2 für 3 sekunden (erst mit update 1.9 einführbar)
 -Ninja:
 	Umbenennung in Elementbändiger
 	Folgende Elemente: Erde, Wasser, Feuer, Luft
