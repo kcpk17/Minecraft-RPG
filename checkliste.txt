@@ -1,26 +1,36 @@
--evtl. neue klasse mit healt_boost 255, saturation, keine rüssi, weakness, swiftness. vllt der neue barbar mit axt
+-evtl. neue klasse mit healt_boost 255, saturation, keine rÃ¼ssi, weakness, swiftness. vllt der neue barbar mit axt
 -potionklassen erhalten nach geworfener potion eine der klasse angepassten lingering potion:
 	Giftmischer: wither
 	Alchemist: instant_dmg
-	Unterstützer: swiftness
+	UnterstÃ¼tzer: swiftness
 	Notfallhelfer: instant_health
 	Doktor: regeneration
--neue Pfeilklassen (rdd) erhalten zur untertützung wenige lingering potions:
+-neue Pfeilklassen (rdd) erhalten zur untertÃ¼tzung wenige lingering potions:
 	dot: poison
 	dps (burst): slowness
--Waldläufer erhält lingering potions (effekt: glowing)
--Tankklassen erhalten Schild mit unbreaking 255, rüstung wird nicht verringert/sehr wenig verringert
--schematic von special effects von Eremit&höllenzauberer machen und neben lobby setzen
+-WaldlÃ¤ufer erhÃ¤lt lingering potions (effekt: glowing)
+-Tankklassen erhalten Schild mit unbreaking 255, rÃ¼stung wird nicht verringert/sehr wenig verringert
+-schematic von special effects von Eremit&hÃ¶llenzauberer machen und neben lobby setzen
 -alchemist bekommt feuereffekt
 -Medusa:
 	Saturation
 	Slowness
 	Eisenschwert mit Fire Aspect 3
+<<<<<<< HEAD
 	Falls Gegner Medusa ansieht, und sie ihn auch, slowness 5 auf Gegner für 3 sekunden
+=======
+	Falls Gegner Medusa ansieht, und sie ihn auch, slowness 5 auf Gegner fÃ¼r 3 sekunden
+-MÃ¶nch erhÃ¤lt, wenn er geschlagen wird, speed 2 fÃ¼r 3 sekunden (erst mit update 1.9 einfÃ¼hrbar)
+>>>>>>> 40c90445371333c1bb7731d389bd7d826043bb55
 -Ninja:
-	Umbenennung in Elementbändiger
+	Umbenennung in ElementbÃ¤ndiger
 	Folgende Elemente: Erde, Wasser, Feuer, Luft
 	Erde: Schlag auf den Boden (nah stehender Gegner), Gegner wird in die Luft katapultiert
 	Luft: Knockback XVII (andere Waffe als Erdwaffe)
-	Feuer: Wird gecastet indem man ein Item droppt (Unsichtbare Kuh wird gespawnt. Wird die Kuh getötet, wird die Zeit gemessen und Cast ausgeführt. Der Cast kann also genug früh unterbrochen werden), Blitze spawnen rund um den Bändiger (Damit der Boden kein Feuer fängt, wird sofort wasser unter dem Blitz gespawnt und sofort mit luft wieder aufgefüllt)
+	Feuer: Wird gecastet indem man ein Item droppt (Unsichtbare Kuh wird gespawnt. Wird die Kuh getÃ¶tet, wird die Zeit gemessen und Cast ausgefÃ¼hrt. Der Cast kann also genug frÃ¼h unterbrochen werden), Blitze spawnen rund um den BÃ¤ndiger (Damit der Boden kein Feuer fÃ¤ngt, wird sofort wasser unter dem Blitz gespawnt und sofort mit luft wieder aufgefÃ¼llt)
 	Wasser: wird gecastet indem man ein Item droppt (Unsichtbare Kuh wird gespawnt) Solange das Item auf dem Boden liegt, regnet es
+-Saturation:
+	Alle Klassen, die Saturation besassen, haben jetzt keine Saturation mehr. Im Gegenzug gibt es sogenannte "Strategische Punkte" bei denen Health-/Saturation-/Regeneration-/Speed-Potions spawnen. Evtl. als aktives Feld mit, in regelmÃ¤ssigen AbstÃ¤nden erneuerten, lingering potions. Diese strategischen Punkte sind nicht dauerhaft aktiv. Damit soll die unnatÃ¼rliche Regeneration durch Saturation im Update 1.9 umgangen werden und die Balance zwischen Stealth-Klassen und normalen Klassen wiederhergestellt werden.
+-Strategische Punkte:
+	Sobald ein Spieler im Wirkungsfeld des strategischen Punktes steht, wir dies allen Spielern angezeigt
+	Die strategischen Punkte sind keine Wirkungsfelder von lingering potions mehr, sondern automtische Wirkungsfelder mithilfe von CommandBlocks
