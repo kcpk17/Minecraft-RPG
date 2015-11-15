@@ -6,3 +6,4 @@
 /scoreboard objectives add bati stat.useItem.minecraft.bow Batman
 /scoreboard objectives add playernumber dummy Spieler
 /scoreboard objectives add class trigger class
+/scoreboard objectives add dmgtaken stat.damageTaken dmgtakentest

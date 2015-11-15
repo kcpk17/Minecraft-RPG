@@ -1,0 +1,18 @@
+Randomizer:
+	-Wald
+	-Sumpf
+	-Wüste
+	-Dschungel
+
+Klassenänderungen:
+	-siehe berchnungen mc 1
+
+Commandreihen Klasse:
+	-in neues Sytem ändern 	(Schritt für Schritt)
+				(Class objective einführen und Commandblocks neu organisieren)
+
+Gebiet:
+	-Festung weiterbauen
+
+Info-Center
+	-Clickable sings einführen

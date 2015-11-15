@@ -147,3 +147,9 @@ Bisher vollbrachte Taten:
 -Leichte Kavallerie hat jetzt Sharpness II und "Heroisches Schwert" ist jetzt aus Diamant
 -Seelensammler haben jetzt Fire Aspect II
 -Mönche erhalten jetzt nach Schaden Strength I für 2 Sekunden
+
+10.11.15
+-eine weitere Arena "Phil's Burg" hinzugefügt (noch nicht kompletiert)
+
+11.11.15
+-Phantom-Effekte verbessert. Die Statuseffekte treten schneller in Kraft und das Verschwinden ist jetzt besser in Szene gesetzt
