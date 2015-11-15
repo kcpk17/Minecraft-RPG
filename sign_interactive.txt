@@ -1,72 +1,110 @@
 Spieler 1
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/scoreboard players set @p playernumber 1\"},text:\"Spieler 1\",color:blue}"}}
+
 Spieler 2
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/scoreboard players set @p playernumber 2\"},text:\"Spieler 2\",color:blue}"}}
+
 Spieler 3
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/scoreboard players set @p playernumber 3\"},text:\"Spieler 3\",color:blue}"}}
+
 Spieler 4
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/scoreboard players set @p playernumber 4\"},text:\"Spieler 4\",color:blue}"}}
+
 Zufall: Gebiet
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/setblock 51 48 545 minecraft:redstone_block 0 replace\"},text:\"Zufall: Gebiet\",color:blue}"}}
+
 Zufall: Klasse
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/setblock 52 53 548 minecraft:redstone_block 0 replace\"},text:\"Zufall: Klasse\",color:blue}"}}
+
 Zufall: Pferdeklasse
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/setblock 43 53 556 minecraft:redstone_block 0 replace\"},text:\"Zufall:\",color:blue}",Text3:"{text:\"Pferdeklasse\",color:blue}"}}
+
 Phantom (DD)
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 68 16 542\"},text:\"Phantom\",color:blue}",Text3:"{text:\"(DD)\",color:blue}"}}
+
 Präzisionsschütze (DD)
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 69 34 542\"},text:\"Präzisions-\",color:blue}",Text3:"{text:\"schütze\",color:blue}",Text4:"{text:\"(DD)\",color:blue}"}}
+
 Feuerpfeilschütze (DD)
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 68 34 542\"},text:\"Feuerpfeil-\",color:blue}",Text3:"{text:\"schütze\",color:blue}",Text4:"{text:\"(DD)\",color:blue}"}}
+
 Leichter Infanterist (DD)
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 69 25 542\"},text:\"Leichter\",color:blue}",Text3:"{text:\"Infanterist\",color:blue}",Text4:"{text:\"(DD)\",color:blue}"}}
+
 Waldläufer (DD)
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 69 28 542\"},text:\"Waldläufer\",color:blue}",Text3:"{text:\"(DD)\",color:blue}"}}
+
 Alchemist (DD)
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 69 19 542\"},text:\"Alchemist\",color:blue}",Text3:"{text:\"(DD)\",color:blue}"}}
+
 Assasine (DD)
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 68 46 542\"},text:\"Assasine\",color:blue}",Text3:"{text:\"(DD)\",color:blue}"}}
+
 Hochlandkrieger (DD)
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 68 43 542\"},text:\"Hochlandkrieger\",color:blue}",Text3:"{text:\"(DD)\",color:blue}"}}
+
 Attentäter (DD)
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 69 46 542\"},text:\"Attentäter\",color:blue}",Text3:"{text:\"(DD)\",color:blue}"}}
+
 Mönch (Tank)
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 69 37 542\"},text:\"Mönch\",color:blue}",Text3:"{text:\"(Tank)\",color:blue}"}}
+
 Todesbote (DD)
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 68 12 542\"},text:\"Todesbote\",color:blue}",Text3:"{text:\"(DD)\",color:blue}"}}
+
 Irrer (DD)
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 69 12 542\"},text:\"Irrer\",color:blue}",Text3:"{text:\"(DD)\",color:blue}"}}
+
 Medusa (DD)
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 69 3 549\"},text:\"Medusa\",color:blue}",Text3:"{text:\"(DD)\",color:blue}"}}
+
 Nautist (DD)
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 68 28 542\"},text:\"Nautist\",color:blue}",Text3:"{text:\"(DD)\",color:blue}"}}
+
 Imperialer Ritter (Tank)
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 69 40 542\"},text:\"Imperialer\",color:blue}",Text3:"{text:\"Ritter\",color:blue}",Text4:"{text:\"(Tank)\",color:blue}"}}
+
 Unterstützer (Support)
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 68 19 542\"},text:\"Unterstützer\",color:blue}",Text3:"{text:\"(Support)\",color:blue}"}}
+
 Königlicher Ritter (DD)
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 68 40 542\"},text:\"Königlicher\",color:blue}",Text3:"{text:\"Ritter\",color:blue}",Text4:"{text:\"(DD)\",color:blue}"}}
+
 Kriegsveteran (Tank)
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 69 43 542\"},text:\"Kriegsveteran\",color:blue}",Text3:"{text:\"(Tank)\",color:blue}"}}
+
 Barbar (DD)
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 68 37 542\"},text:\"Barbar\",color:blue}",Text3:"{text:\"(DD)\",color:blue}"}}
+
 Höllenzauberer (DD)
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 69 16 542\"},text:\"Höllenzauberer\",color:blue}",Text3:"{text:\"(DD)\",color:blue}"}}
+
 Giftmischer (DD)
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 68 25 542\"},text:\"Giftmischer\",color:blue}",Text3:"{text:\"(DD)\",color:blue}"}}
+
 Eremit (DD)
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 68 22 542\"},text:\"Eremit\",color:blue}",Text3:"{text:\"(DD)\",color:blue}"}}
+
 Höfischer Bote (DD)
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 69 22 542\"},text:\"Höfischer Bote\",color:blue}",Text3:"{text:\"(DD)\",color:blue}"}}
+
 Doktor (Heal)
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 68 31 542\"},text:\"Doktor\",color:blue}",Text3:"{text:\"(Heal)\",color:blue}"}}
+
 Notfallhelfer (Heal)
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 69 31 542\"},text:\"Notfallhelfer\",color:blue}",Text3:"{text:\"(Heal)\",color:blue}"}}
+
 Ninja (DD)
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/tp @p 69 6 549\"},text:\"Ninja\",color:blue}",Text3:"{text:\"(DD)\",color:blue}"}}
+
 Dorf
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/setblock 69 53 567 minecraft:redstone_block 0 replace\"},text:\"Dorf\",color:blue}"}}
-Info-Center: Barbar (DD)
-/give @p minecraft:sign 1 0 {BlockEntityTag:{Text1:"{text:\"\",clickEvent:{action:run_command,value:\"give @p written_book 1 0 {pages:[\\\"[\\\\\\\"\\\\\\\",{text:Barbar,bold:true,underlined:true,color:dark_red},{text:\\\\\\\"\\\\n\\\\n\\\\\\\",color:reset},{text:\\\\\\\"1. \\\\\\\",clickEvent:{action:change_page,value:2}},{text:Hintergrund,color:dark_gray,clickEvent:{action:change_page,value:2}},{text:\\\\\\\"\\\\n\\\\\\\",color:reset},{text:\\\\\\\"2. \\\\\\\",clickEvent:{action:change_page,value:6}},{text:Stats,color:dark_gray,clickEvent:{action:change_page,value:6}},{text:\\\\\\\"\\\\n\\\\\\\",color:reset},{text:\\\\\\\"3. \\\\\\\",clickEvent:{action:change_page,value:7}},{text:Tipps,color:dark_gray,clickEvent:{action:change_page,value:7}}]\\\",\\\"[\\\\\\\"\\\\\\\",{text:Barbar,italic:true,color:dark_red},{text:\\\\\\\"\\\\n\\\\nDer \\\\\\\",color:reset},{text:Barbar,color:dark_red},{text:\\\\\\\" ist ein kleiner stämmiger Mann mit langem tiefrotem Bart.\\\\nIm Gegensatz zu seinem Äusseren ist er in seinem Inneren ein gutherziger Charakter und sehr sanft.\\\\nEr ist sehr kräftig, doch benutzt er diese\\\\\\\",color:reset}]\\\",\\\"{text:\\\\\\\"Kraft und seine, für ihn heilige, Axt meist nur, um Holz zu hacken,\\\\ndamit er es am Abend warm und gemütlich hat.\\\\nWenn er einmal das Pech hatte und sich mit seiner Axt verletzte sind seine Heilungschancen sehr hoch.\\\\nNicht nur sein\\\\\\\"}\\\",\\\"{text:\\\\\\\"Aussehen ist sehr dem Norden angepasst, er hat eine angeborene Langsamigkeit,\\\\ndie ihm aber auch eine gewisse Ausdauer verleiht. Er ist jedoch auch sehr rastlos und stets unterwegs,\\\\nwas man ihm aber anhand seines schmächtigen\\\\\\\"}\\\",\\\"[\\\\\\\"\\\\\\\",{text:\\\\\\\"Körperbaus nicht wirklich glauben kann.\\\\n\\\\n\\\\n\\\\n\\\\n\\\\n\\\\n\\\\n\\\\n\\\\n\\\\n\\\\\\\"},{text:Verzeichnis,color:gray,clickEvent:{action:change_page,value:1}}]\\\",\\\"[\\\\\\\"\\\\\\\",{text:Stats,italic:true},{text:\\\\\\\"\\\\n\\\\n\\\\n\\\\n\\\\n\\\\n\\\\n\\\\n\\\\n\\\\n\\\\n\\\\n\\\\\\\",color:reset},{text:Verzeichnis,color:gray,clickEvent:{action:change_page,value:1}}]\\\",\\\"[\\\\\\\"\\\\\\\",{text:Tipps,italic:true},{text:\\\\\\\"\\\\n\\\\n\\\\n\\\\n\\\\n\\\\n\\\\n\\\\n\\\\n\\\\n\\\\n\\\\n\\\\\\\",color:reset},{text:Verzeichnis,color:gray,clickEvent:{action:change_page,value:1}}]\\\"],title:Barbar,author:\\\"A. Zangger\\\",display:{Lore:[\\\"Informationsheftchen: Barbar\\\",\\\"Auch erhältlich auf:\\\",\\\"EN, RU, DE, FR, AR, IT, ES, HU\\\",\\\"Schicken Sie noch heute Ihren PIN-Code\\\",\\\"als Glücksnummer an 031 300 58 58 und\\\",\\\"gewinnen Sie eine Überraschung!\\\"]}}\"}}",Text2:"{text:Barbar,color:blue}",Text3:"{text:\"(DD)\",color:blue}"},display:{Name:Barbar}}
+
+Assassine (DD) Geschichtchen
+/give @p minecraft:sign 1 0 {BlockEntityTag:{Text1:"{text:Assassine,clickEvent:{action:run_command,value:\"give @p written_book 1 0 {pages:[\\\"[\\\\\\\"\\\\\\\",{text:Assassine,bold:true,italic:true,underlined:true,color:dark_gray},{text:\\\\\\\"\\\\n \\\\nDie junge \\\\\\\",color:reset},{text:Assassine,color:dark_gray},{text:\\\\\\\" hat sich schon in frühen Jahren von ihrer Familie losgesagt. Ihre edlen Eltern hatten ihr den Umgang mit Waffen verboten, obwohl sie ein unglaubliches Talent dafür hat und ihren\\\\\\\",color:reset}]\\\",\\\"{text:\\\\\\\"Dolch sehr effizient einsetzten kann. Aus diesem Grund hat sie eine offene Stelle als Assasssine angenommen, die ihr eine Grossstadt angeboten hatte. Weil ihre Eltern jedoch eine Vermisstenanzeige mit Kopfgeld ausgesetzt haben,\\\\\\\"}\\\",\\\"{text:\\\\\\\"darf sie nicht gesehen werden und lernte, unsichtbar zu sein. Durch die ständige Verfolgung von geldgeilen Bürgern hat sie eine unglaubliche Schnelligkeit entwickelt und kann unglaubliche Höhen überwinden. Sie hat jedoch durch die\\\\\\\"}\\\",\\\"{text:\\\\\\\"Verfolgung eine Unruhe entwickelt und ist nun ständig in Eile. Durch die gelegentlichen, also recht häufigen, Strassenschlägereien,hat sie Muskeln entwickelt, die sie auch einzusetzen weiss. Weil sie jedoch eine Frau ist, plagt sie mindestens\\\\\\\"}\\\",\\\"{text:\\\\\\\"alle vier Wochen eine Übelkeit, gefolgt von unglaublichen Hunger, der natürlich durch die ständige Bewegung nur schlimmer wird. Am liebsten hat sie gekochten Fisch. Ihre Lieblingsfarbe ist schwarz, genau wie ihre Seele. Um zu überleben hat sie\\\\\\\"}\\\",\\\"{text:\\\\\\\"einen gewissen fiesen Charakter entwickelt und gelernt hinterhältig zu sein.\\\\\\\"}\\\"],title:Assassine,author:\\\"A. Zangger\\\",display:{Lore:[\\\"Informationsheftchen: Assassine\\\",\\\"Auch erhältlich auf:\\\",\\\"EN, RU, DE, FR, AR, IT, ES, HU\\\",\\\"Schicken Sie noch heute Ihren PIN-Code\\\",\\\"als Glücksnummer an 031 300 58 58 und\\\",\\\"gewinnen Sie eine Überraschung!\\\"]}}\"},color:dark_blue}",Text2:"{text:\"(DD)\",color:dark_blue}",Text3:"{text:Geschichtchen,color:dark_blue}"},display:{Name:"Custom Sign"}}
+
+Barbar (DD) Geschichtchen
+/give @p minecraft:sign 1 0 {BlockEntityTag:{Text1:"{text:Barbar,clickEvent:{action:run_command,value:\"give @p written_book 1 0 {pages:[\\\"[\\\\\\\"\\\\\\\",{text:Barbar,bold:true,italic:true,underlined:true,color:dark_red},{text:\\\\\\\"\\\\n\\\\nDer \\\\\\\",color:reset},{text:Barbar,color:dark_red},{text:\\\\\\\" ist ein kleiner stämmiger Mann mit langem tiefrotem Bart.\\\\nIm Gegensatz zu seinem Äusseren ist er in seinem Inneren ein gutherziger Charakter und sehr sanft. Er ist sehr kräftig,\\\\n \\\\\\\",color:reset}]\\\",\\\"{text:\\\\\\\"doch benutzt er diese Kraft und seine, für ihn heilige, Axt meist nur, um Holz zu hacken,\\\\ndamit er es am Abend warm und gemütlich hat.\\\\nWenn er einmal das Pech hatte und sich mit seiner Axt verletzte sind seine Heilungschancen sehr hoch.\\\\\\\"}\\\",\\\"{text:\\\\\\\"Nicht nur sein Aussehen ist sehr dem Norden angepasst, er hat eine angeborene Langsamkeit,\\\\ndie ihm aber auch eine gewisse Ausdauer verleiht. Er ist jedoch auch sehr rastlos und stets unterwegs,\\\\nwas man ihm aber anhand seines\\\\\\\"}\\\",\\\"{text:\\\\\\\"schmächtigen Körperbaus nicht wirklich glauben kann.\\\\\\\"}\\\"],title:Barbar,author:\\\"A. Zangger\\\",display:{Lore:[\\\"Informationsheftchen: Barbar\\\",\\\"Auch erhältlich auf:\\\",\\\"EN, RU, DE, FR, AR, IT, ES, HU\\\",\\\"Schicken Sie noch heute Ihren PIN-Code\\\",\\\"als Glücksnummer an 031 300 58 58 und\\\",\\\"gewinnen Sie eine Überraschung!\\\"]}}\"},color:dark_blue}",Text2:"{text:\"(DD)\",color:dark_blue}",Text3:"{text:Geschichtchen,color:dark_blue}"},display:{Name:"Custom Sign"}}
+
 Bergausläufer
 /give @p sign 1 0 {BlockEntityTag:{Text2:"{color:black,clickEvent:{action:run_command,value:\"/setblock 47 53 567 minecraft:redstone_block 0 replace\"},text:\"Bergausläufer\",color:blue}"}}
