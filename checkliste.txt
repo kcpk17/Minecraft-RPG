@@ -1,4 +1,4 @@
--evtl. neue klasse mit healt_boost 255, saturation, keine rÃ¼ssi, weakness, swiftness. vllt der neue barbar mit axt
+-neue klasse mit healt_boost 255, saturation, keine rÃ¼ssi, weakness, swiftness. vllt der neue barbar mit axt
 -potionklassen erhalten nach geworfener potion eine der klasse angepassten lingering potion:
 	Giftmischer: wither
 	Alchemist: instant_dmg
@@ -34,3 +34,6 @@
 -Strategische Punkte:
 	Sobald ein Spieler im Wirkungsfeld des strategischen Punktes steht, wir dies allen Spielern angezeigt
 	Die strategischen Punkte sind keine Wirkungsfelder von lingering potions mehr, sondern automtische Wirkungsfelder mithilfe von CommandBlocks
+-neue klasse mit elytra, leather rüstung, 32 tnt, 1 pfeil, feuerzeug, normaler bogen mit infinity, bogen mit infinity und flame, holzschwert, wenn sneaking manchmal 30 blöcke in die luft teleportiert
+-neue klasse mit swiftness, bogen mit infinity, 1 giftpfeil, 1 slownesspfeil, 1 witherpfeil (wenns geht), 1 nauseapfeil, 1 spektralpfeil, jump boost 2, levitation 255, speed 3
+-neue klasse mit healt_boost 255, invisibility, poison 1, keine rüstung, speed 2, steinschwert
